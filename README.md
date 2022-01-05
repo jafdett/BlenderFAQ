@@ -24,3 +24,4 @@ Windows, Mac OS и Linux
 Далее стоит обратить внимание на ряд бесплатных курсов, в которых Вы сможете более подробно изучить инструменты, а также различные техники, методы и подходы к решению тех или иных задач в ходе моделирования конкретной сцены:
 
 - Мини-курс «Blender для новичков» от VideoSmile: https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm
+- Курс по основам Blender 2.8+ от Артёма Слаквы: https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6
