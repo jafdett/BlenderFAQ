@@ -17,8 +17,6 @@ Windows, Mac OS и Linux
 ## С чего мне начать?
 Лучше всего начать изучение программы с «основ», которые коротко, но исчерпывающе изложены в официальном курсе от создателей программы.
 
-Официальная документация Blender: https://docs.blender.org/
-
 Основы Blender 2.8 на английском языке: https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
 
 Тот же курс, но переведенный на русский: https://www.youtube.com/playlist?list=PLW-edvk8DPoAiurQIgT06jfR720tP3GFC
@@ -29,7 +27,10 @@ Windows, Mac OS и Linux
 - Курс по основам Blender 2.8+ от Артёма Слаквы: https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6
 
 ## Где искать ответы на возникающие вопросы?
-Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
+1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
+2. Используйте Google и Яндекс! Сформулируйте вопрос (лучше на английском) и вперед - найдется все!
+3. Тоже самое и в YouTube, просто поищите там по ключевым словам вашего вопроса и добавье Blender. Например вам нужно узнать про ретопологию - запрос будет такой: "Retopology Blender".
+4. Приходите в чат Телеграм [Blender_ru](https://t.me/blender_ru), там помогут. 
 
 
 ## А что с автоматизацией? 
