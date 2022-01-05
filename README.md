@@ -35,6 +35,13 @@ Windows, Mac OS и Linux
 3. Тоже самое и в YouTube, просто поищите там по ключевым словам вашего вопроса и добавьте Blender. Например, вам нужно узнать про ретопологию - запрос будет такой: "Retopology Blender".
 4. Приходите в Телеграм-чат [Blender_ru](https://t.me/blender_ru), там помогут. 
 
+## Подскажите сайты, где можно взять модели?
+https://blendswap.com<br>
+https://sketchfab.com
+
+## А где взять текстуры и HDRI для фонов?
+https://polyhaven.com/
+
 
 ## А что с автоматизацией? 
 У Blender есть богатое Python API - с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
