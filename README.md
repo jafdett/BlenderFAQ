@@ -25,3 +25,6 @@ Windows, Mac OS и Linux
 
 - Мини-курс «Blender для новичков» от VideoSmile: https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm
 - Курс по основам Blender 2.8+ от Артёма Слаквы: https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6
+
+## Где искать ответы на возникающие вопросы?
+Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
