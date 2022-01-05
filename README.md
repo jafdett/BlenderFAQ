@@ -1,7 +1,9 @@
 # BlenderFAQ
 
 ## Что такое Blender?
-Blender это Opensource-программа для 3d моделирования, скульптинга, анимации, рендера и много другого
+Blender это Opensource-программа для 3d моделирования, скульптинга, анимации, рендера и много другого.
+
+Посмотрите [этот ролик](https://www.youtube.com/watch?v=R7TLwKwixZA) про создание мультфильма Spring или [этот](https://youtu.be/X4MXWcx4jUA) про создание мультфильма Sprite Fright, там возможности Blender сразу станут понятны. 
 
 ## Он бесплатный? 
 Да, его можно просто скачать, без регистрации и SMS на сайте https://blender.org/download, также есть архив старых версий, вот тут: https://download.blender.org. 
