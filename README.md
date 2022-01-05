@@ -27,14 +27,14 @@ Windows, Mac OS и Linux
 Далее стоит обратить внимание на ряд бесплатных курсов, в которых вы сможете более подробно изучить инструменты, а также различные техники, методы и подходы к решению тех или иных задач в ходе моделирования конкретной сцены:
 
 - Мини-курс [«Blender для новичков»](https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm) от VideoSmile 
-- [Курс по основам Blender 2.8+](https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6) от Артёма Слаквы: 
+- [Курс по основам Blender 2.8+](https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6) от Артёма Слаквы
 
 ## Где искать ответы на возникающие вопросы?
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
 2. Используйте Google и Яндекс! Сформулируйте вопрос (лучше на английском) и вперед - найдется все!
 3. Тоже самое и в YouTube, просто поищите там по ключевым словам вашего вопроса и добавье Blender. Например вам нужно узнать про ретопологию - запрос будет такой: "Retopology Blender".
-4. Приходите в чат Телеграм [Blender_ru](https://t.me/blender_ru), там помогут. 
+4. Приходите в Телеграм-чат [Blender_ru](https://t.me/blender_ru), там помогут. 
 
 
 ## А что с автоматизацией? 
-У Blender есть богатое Python API - то есть с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
+У Blender есть богатое Python API - с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
