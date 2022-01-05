@@ -17,6 +17,8 @@ Windows, Mac OS и Linux
 ## С чего мне начать?
 Лучше всего начать изучение программы с «основ», которые коротко, но исчерпывающе изложены в официальном курсе от создателей программы.
 
+Официальная документация Blender: https://docs.blender.org/
+
 Основы Blender 2.8 на английском языке: https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
 
 Тот же курс, но переведенный на русский: https://www.youtube.com/playlist?list=PLW-edvk8DPoAiurQIgT06jfR720tP3GFC
@@ -28,3 +30,7 @@ Windows, Mac OS и Linux
 
 ## Где искать ответы на возникающие вопросы?
 Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
+
+
+## А что с автоматизацией? 
+У Blender есть богатое Python API - то есть с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
