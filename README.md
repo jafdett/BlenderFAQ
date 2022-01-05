@@ -17,14 +17,14 @@ Windows, Mac OS и Linux
 ## С чего мне начать?
 Лучше всего начать изучение программы с «основ», которые коротко, но исчерпывающе изложены в официальном курсе от создателей программы.
 
-Основы Blender 2.8 на английском языке: https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
+[Основы Blender 2.8 на английском языке](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
 
-Тот же курс, но переведенный на русский: https://www.youtube.com/playlist?list=PLW-edvk8DPoAiurQIgT06jfR720tP3GFC
+[Тот же курс, но переведенный на русский](https://www.youtube.com/playlist?list=PLW-edvk8DPoAiurQIgT06jfR720tP3GFC)
 
 Далее стоит обратить внимание на ряд бесплатных курсов, в которых вы сможете более подробно изучить инструменты, а также различные техники, методы и подходы к решению тех или иных задач в ходе моделирования конкретной сцены:
 
-- Мини-курс «Blender для новичков» от VideoSmile: https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm
-- Курс по основам Blender 2.8+ от Артёма Слаквы: https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6
+- Мини-курс [«Blender для новичков»](https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm) от VideoSmile 
+- [Курс по основам Blender 2.8+](https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6) от Артёма Слаквы: 
 
 ## Где искать ответы на возникающие вопросы?
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
