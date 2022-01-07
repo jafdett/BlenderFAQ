@@ -59,7 +59,14 @@ Windows, macOS и Linux
 - https://sketchfab.com
 - https://cgtrader.com
 - https://free3d.com
+- https://downloadfree3d.com
 - https://turbosquid.com
+- https://open3dmodel.com
+- https://renderpeople.com
+- https://3dsky.org/
+- https://www.3ds-models.org
+- https://www.blender-models.com/
+
 
 ## Где взять текстуры, материалы или HDRI для фонов?
 - https://blenderkit.com
@@ -71,6 +78,7 @@ Windows, macOS и Linux
 - https://3dtextures.me
 - https://texturebox.com
 - https://texture.ninja
+
 
 ## Где мне взять аддоны?
 Многие полезные аддоны поставляются вместе с программой, но по умолчанию не активированы. Их можно активировать в настройках программы (Edit/Preferences/add-ons)
