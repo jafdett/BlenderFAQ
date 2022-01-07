@@ -50,7 +50,7 @@ Windows, Mac OS и Linux
 - [Blenderartists.org](https://blenderartists.org)
 - [Blender Nation](https://www.blendernation.com)
 
-## Подскажите сайты, где можно взять модели?
+## Где взять модели?
 - https://blendswap.com
 - https://blenderkit.com
 - https://sketchfab.com
@@ -58,6 +58,8 @@ Windows, Mac OS и Linux
 - https://free3d.com
 
 ## Где взять текстуры, материалы или HDRI для фонов?
+- https://blenderkit.com
+- http://blendermada.com
 - https://polyhaven.com
 - https://ambientcg.com
 - https://sharetextures.com
@@ -65,7 +67,6 @@ Windows, Mac OS и Linux
 - https://3dtextures.me
 - https://texturebox.com
 - https://texture.ninja
-- http://blendermada.com
 
 ## А что с автоматизацией? 
 У Blender есть богатое Python API - с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
