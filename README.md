@@ -56,6 +56,7 @@ Windows, Mac OS и Linux
 - https://sketchfab.com
 - https://cgtrader.com
 - https://free3d.com
+- https://turbosquid.com
 
 ## Где взять текстуры, материалы или HDRI для фонов?
 - https://blenderkit.com
