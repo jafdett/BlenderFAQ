@@ -69,5 +69,13 @@ Windows, Mac OS и Linux
 - https://texturebox.com
 - https://texture.ninja
 
+## Где мне взять аддоны?
+Многие полезные аддоны поставляются вместе с программой, но по умолчанию не активированы. Их можно активировать в настройках программы (Edit/Preferences/add-ons)
+А так же существуют ресурсы на которых авторы выкладывают свои аддоны.
+Многие из них являются платными, но в большинстве случаев плата за них вполне оправдана.
+- [Blender market](https://blendermarket.com/categories/scripts-and-addons)
+- [Gumroad](https://gumroad.com/)
+- [Github](https://github.com)
+
 ## А что с автоматизацией? 
 У Blender есть богатое Python API - с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
