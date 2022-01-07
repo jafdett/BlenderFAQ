@@ -51,11 +51,21 @@ Windows, Mac OS и Linux
 - [Blender Nation](https://www.blendernation.com)
 
 ## Подскажите сайты, где можно взять модели?
-https://blendswap.com<br>
-https://sketchfab.com
+- https://blendswap.com
+- https://blenderkit.com
+- https://sketchfab.com
+- https://cgtrader.com
+- https://free3d.com
 
-## А где взять текстуры и HDRI для фонов?
-https://polyhaven.com/
+## Где взять текстуры, материалы или HDRI для фонов?
+- https://polyhaven.com
+- https://ambientcg.com
+- https://sharetextures.com
+- https://cgbookcase.com
+- https://3dtextures.me
+- https://texturebox.com
+- https://texture.ninja
+- http://blendermada.com
 
 ## А что с автоматизацией? 
 У Blender есть богатое Python API - с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
