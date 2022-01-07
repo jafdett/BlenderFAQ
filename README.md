@@ -26,8 +26,12 @@ Windows, Mac OS и Linux
 
 Далее стоит обратить внимание на ряд бесплатных курсов, в которых вы сможете более подробно изучить инструменты, а также различные техники, методы и подходы к решению тех или иных задач в ходе моделирования конкретной сцены:
 
-- Мини-курс [«Blender для новичков»](https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm) от VideoSmile 
+- Мини-курс [«Blender для новичков»](https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm) от VideoSmile
+- Видео [«Blender за 1 час!»](https://www.youtube.com/watch?v=BWRNNXa-S3Y) от VideoSmile
 - [Курс по основам Blender 2.8+](https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6) от Артёма Слаквы
+- [Курс по моделированию пончика](https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) в Blender 2.8+ от Blender Guru
+- [Курс по моделированию пончика в переводе на русский](https://www.youtube.com/watch?v=ryq4Vj7G5NA&list=PLkxXQ3ugQK2PEUO9a2_FZMmXGXy83P4XN) от Дениса Кожара
+- [Мини-курс по моделированию стула](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR) в Blender 2.8+ от Blender Guru
 
 ## Где искать ответы на возникающие вопросы?
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
