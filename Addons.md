@@ -22,32 +22,41 @@ Addon-ы делятся на два типа: встроенные и внешн
 ## 
 
 # Список addon-ов по категориям. 
-Встроенные и внешние отмечены отдельно, значком **$**. отмечены платные. 
-
-## Моделинг
+В каждой категории сначала идут встроенные (не отмечены никак). <br>
+Потом бесплатные внешние, отмечены символом *E*, потом платные отмеченные символом **$**
+- LoopTools
 
 ## Текстурирование 
 
 ## Риг
+- Rigify 
+- [WiggleBones](https://blenderartists.org/t/wiggle-bones-a-jiggle-bone-implementation-for-2-8/1154726) *E*
+- [X-Muscle System](https://blendermarket.com/products/x-muscle-system) **$**
+- [AutoRig PRO](https://blendermarket.com/products/auto-rig-pro) **$**
 
 ## Анимация
 
+
 ## работа с HardSurface
+- Carver
 - [MeshMachine](https://blendermarket.com/products/meshmachine) **$**
 - [DecalMachine](https://blendermarket.com/products/decalmachine) **$** 
 - [HardOPS](https://blendermarket.com/products/hardopsofficial) **$**
 - [BoxCutter](https://blendermarket.com/products/boxcutter) **$**
-- 
 
 ## работа со Sculpt
+- [MeshFairing](https://github.com/fedackb/mesh-fairing) *E*
+- [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
+- [SpeedSculpt](https://blendermarket.com/products/speedsculpt) **$** 
+
 
 ## Ретопология
 - Bsurface
 - F2
-- MiraTools
-- [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть беслпатная версия на Github. 
-- [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
+- [MiraTools](https://blenderartists.org/t/miratools/637385) *E*
+- [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на Github. 
 
-
-## Геооданные 
+## Ускорение работы
+- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
+## Геоданные 
 
