@@ -19,7 +19,8 @@ Windows, macOS и Linux
 ## Почему лучше использовать английский интерфейс программы?
 1. Подавляющее большинство обучающих курсов, уроков и статей написаны именно под английский интерфейс, как следствие вам будет намного проще повторять действия за автором, не теряя время на перевод и поиск этой функций в русскоязычном интерфейсе;
 2. В процессе изучения программы вы сможете подтянуть свой английский!
-> Можно пойти на компромис: оставить весь интрефейс на английском, но включить русские подсказки. Это можно сделать через Preferences - Interface - Language (Русский), но оставить только чекбокс Affect - Tooltips. 
+> Можно пойти на компромис: оставить весь интрефейс на английском, но включить русские подсказки. Это можно сделать через Preferences - Interface - Language (Русский), но оставить только чекбокс Affect - Tooltips.
+3. Так вы повышаете шанс на быстрое решение своей задачи при обращении за помощью: даже в русскоязычных сообществах английский интерфейс программы является негласным стандартом.
 
 ## С чего мне начать?
 Лучше всего начать изучение программы с «основ», которые коротко, но исчерпывающе изложены в официальном курсе от создателей программы.
@@ -33,6 +34,7 @@ Windows, macOS и Linux
 - Мини-курс [«Blender для новичков»](https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm) от VideoSmile
 - Видео [«Blender за 1 час!»](https://www.youtube.com/watch?v=BWRNNXa-S3Y) от VideoSmile
 - [Курс по основам Blender 2.8+](https://www.youtube.com/playlist?list=PLuuJ7EJSjEfMETY8txzRpXHPH08Eg7kA6) от Артёма Слаквы
+- "Wagon", [Курс по моделированию кареты](https://www.youtube.com/watch?v=VlvK6Dchd2o&list=PL4Fzlpumqxe2kPhvLlVBN0CXLa5ovk9qA&index=1) от Университета Кайно  
 - [Курс по моделированию пончика](https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) в Blender 2.8+ от Blender Guru
 - [Курс по моделированию пончика в переводе на русский](https://www.youtube.com/watch?v=ryq4Vj7G5NA&list=PLkxXQ3ugQK2PEUO9a2_FZMmXGXy83P4XN) от Дениса Кожара
 - [Мини-курс по моделированию стула](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR) в Blender 2.8+ от Blender Guru
@@ -76,7 +78,6 @@ Windows, macOS и Linux
 - https://www.3ds-models.org
 - https://www.blender-models.com/
 
-
 ## Где взять текстуры, материалы или HDRI для фонов?
 - https://blenderkit.com
 - http://blendermada.com
@@ -87,6 +88,12 @@ Windows, macOS и Linux
 - https://3dtextures.me
 - https://texturebox.com
 - https://texture.ninja
+- https://freepbr.com/
+- http://hdrlabs.com/sibl/archive.html
+
+
+## Ссылки на IES-библиотеки:
+- https://ieslibrary.com/en/home
 
 
 ## Где мне взять аддоны?
