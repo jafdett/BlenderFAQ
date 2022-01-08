@@ -26,14 +26,17 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 # Список addon-ов по категориям. 
 В каждой категории сначала идут встроенные (не отмечены никак). <br>
-Потом бесплатные внешние, отмечены символом *E*, потом платные отмеченные символом **$**
+Потом бесплатные внешние: у них есть ссылка, а потом платные: у них тоже есть ссылка и они отмеченны символом **$**
+
+## Моделирование 
 - LoopTools
+
 
 ## Текстурирование 
 
 ## Риг
 - Rigify 
-- [WiggleBones](https://blenderartists.org/t/wiggle-bones-a-jiggle-bone-implementation-for-2-8/1154726) *E*
+- [WiggleBones](https://blenderartists.org/t/wiggle-bones-a-jiggle-bone-implementation-for-2-8/1154726) 
 - [X-Muscle System](https://blendermarket.com/products/x-muscle-system) **$**
 - [AutoRig PRO](https://blendermarket.com/products/auto-rig-pro) **$**
 
@@ -48,7 +51,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [BoxCutter](https://blendermarket.com/products/boxcutter) **$**
 
 ## работа со Sculpt
-- [MeshFairing](https://github.com/fedackb/mesh-fairing) *E*
+- [MeshFairing](https://github.com/fedackb/mesh-fairing) 
 - [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
 - [SpeedSculpt](https://blendermarket.com/products/speedsculpt) **$** 
 
@@ -56,15 +59,34 @@ Addon-ы делятся на два типа: встроенные и внешн
 ## Ретопология
 - Bsurface
 - F2
-- [MiraTools](https://blenderartists.org/t/miratools/637385) *E*
+- [MiraTools](https://blenderartists.org/t/miratools/637385) 
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
 
-## Ускорение работы
-- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
 ## Геоданные 
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS)
 
 ## Rendering 
-- [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) *E*
+- [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) 
 
 ## Волосы и шерсть
 - [Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool) **$**
+
+## Природные явления и живая природа
+- Sapling tree generator
+- Real Snow
+- IvyGen
+- A.N.T. Landscapes
+- Sun Posisition
+- Dynamic Sky
+
+## Архитектура
+- Archimesh
+- Archipack
+
+## Ускорение работы и дополнительные инструменты
+- Node Wrangler
+- MeasureIT
+- BoltFactory
+- Extra Objects
+- tinyCAD
+- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
