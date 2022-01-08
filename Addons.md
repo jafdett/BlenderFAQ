@@ -6,6 +6,9 @@
 Нет, сможете, но их использование обычно расширяет возможности и упрощает работу, автоматизирует рутинные операции. 
 
 ## Где найти addon-ы?
+- https://blenderartists.org
+- https://blendermarket.com
+- https://gumroad.com
 
 ## Классификация
 Addon-ы делятся на два типа: встроенные и внешние. Встроенные поставляются сразу с Blender, но по-умолчанию обычно выключены.
@@ -60,3 +63,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
 ## Геоданные 
 
+## Rendering 
+- [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) *E*
+
+## Волосы и шерсть
+- [Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool) **$**
