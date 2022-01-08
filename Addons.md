@@ -57,7 +57,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - Bsurface
 - F2
 - [MiraTools](https://blenderartists.org/t/miratools/637385) *E*
-- [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на Github. 
+- [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
 
 ## Ускорение работы
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
