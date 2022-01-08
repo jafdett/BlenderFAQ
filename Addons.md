@@ -1,4 +1,4 @@
-# Аддоны Blendera / Blender Add-ons. Введение
+# Аддоны Blender / Blender Add-ons. Введение
 ## Что это? 
 Аддоны это дополнительные программы, написанные сторонними разработчиками (а иногда и основыми), использующие внутренние API основной программы и расширяющие ее возможноси. 
 
@@ -22,8 +22,6 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Как его удалить?
 
-## 
-
 # Список addon-ов по категориям. 
 В каждой категории сначала идут встроенные (не отмечены никак). <br>
 Потом бесплатные внешние, отмечены символом *E*, потом платные отмеченные символом **$**
@@ -39,19 +37,17 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Анимация
 
-
-## работа с HardSurface
+## Работа с HardSurface
 - Carver
 - [MeshMachine](https://blendermarket.com/products/meshmachine) **$**
 - [DecalMachine](https://blendermarket.com/products/decalmachine) **$** 
 - [HardOPS](https://blendermarket.com/products/hardopsofficial) **$**
 - [BoxCutter](https://blendermarket.com/products/boxcutter) **$**
 
-## работа со Sculpt
+## Работа со Sculpt
 - [MeshFairing](https://github.com/fedackb/mesh-fairing) *E*
 - [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
 - [SpeedSculpt](https://blendermarket.com/products/speedsculpt) **$** 
-
 
 ## Ретопология
 - Bsurface
@@ -61,10 +57,20 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Ускорение работы
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
-## Геоданные 
 
-## Rendering 
+## Интерфейс
+- [Screencast Keys](https://github.com/nutti/Screencast-Keys) - показывает нажатия кнопок на клавиатуре, а также действия с мышью
+
+## Геоданные
+- [blender-osm](https://prochitecture.gumroad.com/l/blender-osm) - загрузка данных из OpenStreetMap
+- [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) - загрузка данных из Google Maps
+
+## Рендер-движки 
 - [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) *E*
 
 ## Волосы и шерсть
 - [Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool) **$**
+
+## Импорт / экспорт
+- [SCS Blender Tools](https://github.com/SCSSoftware/BlenderTools) - инструменты для редактирования ассетов в играх от SCS Software
+- [Unreal Blender Tools](https://epicgames.github.io/BlenderTools/) - средства для работы с Unreal Engine 4
