@@ -21,9 +21,10 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## 
 
-# Список addon-ов по категориям. Встроенные и внешние отмечены отдельно. 
+# Список addon-ов по категориям. 
+Встроенные и внешние отмечены отдельно, значком **$**. отмечены платные. 
 
-## моделинг
+## Моделинг
 
 ## Текстурирование 
 
@@ -32,8 +33,21 @@ Addon-ы делятся на два типа: встроенные и внешн
 ## Анимация
 
 ## работа с HardSurface
+- [MeshMachine](https://blendermarket.com/products/meshmachine) **$**
+- [DecalMachine](https://blendermarket.com/products/decalmachine) **$** 
+- [HardOPS](https://blendermarket.com/products/hardopsofficial) **$**
+- [BoxCutter](https://blendermarket.com/products/boxcutter) **$**
+- 
 
 ## работа со Sculpt
+
+## Ретопология
+- Bsurface
+- F2
+- MiraTools
+- [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть беслпатная версия на Github. 
+- [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
+
 
 ## Геооданные 
 
