@@ -57,8 +57,6 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [MiraTools](https://blenderartists.org/t/miratools/637385) 
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
 
-## Ускорение работы
-- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
 
 ## Интерфейс
 - [Screencast Keys](https://github.com/nutti/Screencast-Keys) - показывает нажатия кнопок на клавиатуре, а также действия с мышью
