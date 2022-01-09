@@ -76,7 +76,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - Real Snow
 - IvyGen
 - A.N.T. Landscapes
-- Sun Posisition
+- Sun Position
 - Dynamic Sky
 
 ## Архитектура
