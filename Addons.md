@@ -1,4 +1,4 @@
-# Аддоны Blendera / Blender Add-ons. Введение
+# Аддоны Blender / Blender Add-ons. Введение
 ## Что это? 
 Аддоны это дополнительные программы, написанные сторонними разработчиками (а иногда и основыми), использующие внутренние API основной программы и расширяющие ее возможноси. 
 
@@ -22,15 +22,12 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Как его удалить?
 
-## 
-
 # Список addon-ов по категориям. 
 В каждой категории сначала идут встроенные (не отмечены никак). <br>
 Потом бесплатные внешние: у них есть ссылка, а потом платные: у них тоже есть ссылка и они отмеченны символом **$**
 
 ## Моделирование 
 - LoopTools
-
 
 ## Текстурирование 
 
@@ -42,8 +39,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Анимация
 
-
-## работа с HardSurface
+## Работа с HardSurface
 - Carver
 - [MeshMachine](https://blendermarket.com/products/meshmachine) **$**
 - [DecalMachine](https://blendermarket.com/products/decalmachine) **$** 
@@ -55,21 +51,32 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
 - [SpeedSculpt](https://blendermarket.com/products/speedsculpt) **$** 
 
-
 ## Ретопология
 - Bsurface
 - F2
 - [MiraTools](https://blenderartists.org/t/miratools/637385) 
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
 
-## Геоданные 
-- [BlenderGIS](https://github.com/domlysz/BlenderGIS)
+## Ускорение работы
+- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
+
+## Интерфейс
+- [Screencast Keys](https://github.com/nutti/Screencast-Keys) - показывает нажатия кнопок на клавиатуре, а также действия с мышью
+
+## Геоданные
+- [blender-osm](https://prochitecture.gumroad.com/l/blender-osm) - загрузка данных из OpenStreetMap
+- [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) - загрузка данных из Google Maps
 
 ## Rendering 
 - [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) 
 
 ## Волосы и шерсть
 - [Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool) **$**
+
+
+## Импорт / экспорт
+- [SCS Blender Tools](https://github.com/SCSSoftware/BlenderTools) - инструменты для редактирования ассетов в играх от SCS Software
+- [Unreal Blender Tools](https://epicgames.github.io/BlenderTools/) - средства для работы с Unreal Engine 4
 
 ## Природные явления и живая природа
 - Sapling tree generator
@@ -90,3 +97,4 @@ Addon-ы делятся на два типа: встроенные и внешн
 - Extra Objects
 - tinyCAD
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
+
