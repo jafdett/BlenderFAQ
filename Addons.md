@@ -50,7 +50,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [HardOPS](https://blendermarket.com/products/hardopsofficial) **$**
 - [BoxCutter](https://blendermarket.com/products/boxcutter) **$**
 
-## работа со Sculpt
+## Работа со Sculpt
 - [MeshFairing](https://github.com/fedackb/mesh-fairing) 
 - [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
 - [SpeedSculpt](https://blendermarket.com/products/speedsculpt) **$** 
@@ -100,3 +100,17 @@ Addon-ы делятся на два типа: встроенные и внешн
 - tinyCAD
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
 
+## Работа с камерой
+- Add camera rig
+- [Real camera](https://3d-wolf.com/products/camera/) - позволяет управлять камерой Blender, как настоящей (автоэкспозиция, автофокус)
+- [Photographer 4](https://chafouin.gumroad.com/l/HPrCY) **$** - добавляет новую физическую камеру, настройки физического освещения и интерфейсы микшера для источников света, эмиссионных материалов и миров для EEVEE, Cycles и LuxCore 2.5. ([демо](https://www.youtube.com/watch?v=q_IzKyDD2KY)) . Есть бесплатная версия [Photographer 2](https://chafouin.gumroad.com/l/FWQf), но она работает на версиях до 2.9.
+- [Cinepack](https://blendermarket.com/products/cinepack-pre-animated-camera-moves) **$** - Предварительно анимированные движения камеры ([демо](https://youtu.be/tWnuaHjTGcM)).
+
+## Работа с UV развёрткой
+- Magic UV
+- [TexTools](http://renderhjs.net/textools/blender/)
+- [UV Packer](https://www.uv-packer.com/blender/) - это автоматизированное приложение для UV-упаковки одним щелчком мыши.
+- [UV Squares](https://github.com/Radivarig/UvSquares) - инструмент для UV Editor в Blender, который преобразует выделеные шэлы UV в квадратную сетку.
+- [Texel Density Checker](https://mrven.gumroad.com/l/CEIOR) - Рассчитать плотность текселей для модели с текстурой разного размера (512–4096 пикселей) или с нестандартным размером и соотношением сторон. Аддон бесплатный, но вы можете отблагодарить автора и купить его по той же ссылке.
+- [Uv Packmaster 3](https://blendermarket.com/products/uvpackmaster) **$** - Один из самых эффективных упаковщиков UV ([UV Packmaster features](https://uvpackmaster.com/for-blender/features/)),([UV Packmaster FAQ](https://uvpackmaster.com/for-blender/uvpackmaster-3-faq/))
+- [Zen UV](https://blendermarket.com/products/zen-uv) **$** - это не просто набор инструментов, это готовый конвейер для быстрого создания UV в Blender ([демо](https://youtu.be/Yj2SecY-c1Y))([документация](https://zen-masters.github.io/Zen-UV/)).
