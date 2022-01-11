@@ -31,7 +31,7 @@
 ## Он бесплатный?<a name="isitfree"></a>
 Да, его можно просто скачать, без регистрации и SMS на сайте https://blender.org/download. Также есть архив старых версий, вот тут: https://download.blender.org. 
 Можно скачивать alpha и beta версии: https://builder.blender.org/download/daily/. <br>
-Более того, он распространяется под лицензией GPL v2 и его разрабатывает Blender Foundation под руководством отца-основателя: Тона Рузендаля. 
+Более того, он распространяется под лицензией GPL v2 и его разрабатывает Blender Foundation под руководством отца-основателя: [Тона Рузендаля](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C,_%D0%A2%D0%BE%D0%BD).
 
 ## Но ведь его все равно рано или поздно купит Autodesk? <a name="autodeskbuy"></a>
 Нет, так не выйдет. Лицензия GPL v2 это исключает. 
