@@ -117,6 +117,8 @@ Windows, macOS и Linux
 
 ## Ссылки на IES-библиотеки:
 - https://ieslibrary.com/en/home
+ 
+ [Видеоурок](https://www.youtube.com/watch?v=l-uz3BHOqNo) о том, как использовать IES-файлы
 
 
 ## Где мне взять аддоны?
