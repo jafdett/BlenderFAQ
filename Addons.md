@@ -35,6 +35,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - BoolTools - быстрые булевы операции за счет автоматизации наложения модификатора Boolean.
 
 ## Текстурирование 
+[Bpainter](https://blendermarket.com/products/bpainter) - мощный аддон для текстурирования аля Substance Painter прямо в Blender **$**
 
 ## Риг
 - Rigify 
