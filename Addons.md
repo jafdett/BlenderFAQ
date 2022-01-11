@@ -124,3 +124,6 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Texel Density Checker](https://mrven.gumroad.com/l/CEIOR) - Рассчитать плотность текселей для модели с текстурой разного размера (512–4096 пикселей) или с нестандартным размером и соотношением сторон. Аддон бесплатный, но вы можете отблагодарить автора и купить его по той же ссылке.
 - [Uv Packmaster 3](https://blendermarket.com/products/uvpackmaster) **$** - Один из самых эффективных упаковщиков UV ([UV Packmaster features](https://uvpackmaster.com/for-blender/features/)),([UV Packmaster FAQ](https://uvpackmaster.com/for-blender/uvpackmaster-3-faq/))
 - [Zen UV](https://blendermarket.com/products/zen-uv) **$** - это не просто набор инструментов, это готовый конвейер для быстрого создания UV в Blender ([демо](https://youtu.be/Yj2SecY-c1Y))([документация](https://zen-masters.github.io/Zen-UV/)).
+
+## Аддоны All in One (многофункциональные аддоны)
+- [BagaPie](https://blenderartists.org/t/bagapie-modifier-free-addon/1310959) - это универсальный и бесплатный аддон, который создаёт пресеты из модификаторов и геометрических нод (Он в основном предназначен для архитектуры) ([демо](https://youtu.be/nDeK29aAUps)),([документация](https://www.f12studio.fr/bagapie)). Аддон бесплатный, но вы можете отблагодарить автора и купить его.
