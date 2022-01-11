@@ -96,9 +96,10 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Ускорение работы и дополнительные инструменты
 - Node Wrangler
-- MeasureIT
-- BoltFactory
-- Extra Objects
+- MeasureIT - аддон который позволяет производить измерения. 
+- Stored Views - сохраняйте и восстанавливайте пользовательские виды, точку зрения и расположение камер.
+- BoltFactory - настоящая фабрика болтов и гаек.
+- Extra Objects - аддон позворляющий создавать дополнительные примитивные и не только примитивные объекты.
 - tinyCAD
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
 
