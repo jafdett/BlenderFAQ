@@ -23,6 +23,7 @@
 [Какой render-движок предпочесть?](#chooserender)<br>
 [Какие видеокарты поддерживаются?](#gpusupported)<br>
 [Blender умеет рендерить одновременно на процессоре и видеокарте?](#gpuandcpu)<br>
+[Я хочу научится моделировать машины, какие курсы посоветуете?](#carcreation)<br>
 [Может ли Blender в 2d?](#2d)<br>
 [Что такое Sculpt?](#whatiscsuplt)<br>
 
@@ -214,6 +215,9 @@ Blender имеет ряд условий относительно поддерж
 
 ## Blender умеет рендерить одновременно на процессоре и видеокарте? <a name="gpuandcpu"></a>
 Да, такая возможность появилась в 2.8x версиях.
+
+## Я хочу научится моделировать машины, какие курсы посоветуете? <a name="carcreation"></a>
+[Master Car Creation in Blender](https://www.blendermarket.com/products/master-car-creation-in-blender)
 
 
 ## Может ли Blender в 2d? <a name="2d"></a>
