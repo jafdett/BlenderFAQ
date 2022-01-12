@@ -45,7 +45,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - BoolTools - быстрые булевы операции за счет автоматизации наложения модификатора Boolean.
 
 ## Текстурирование 
-[Bpainter](https://blendermarket.com/products/bpainter) - мощный аддон для текстурирования аля Substance Painter прямо в Blender **$**
+[Bpainter](https://blendermarket.com/products/bpainter) - мощный аддон для текстурирования а-ля Substance Painter прямо в Blender **$**
 
 ## Риг
 - Rigify 
@@ -64,8 +64,14 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Работа со Sculpt
 - [MeshFairing](https://github.com/fedackb/mesh-fairing) 
+- [Sculpt Alphas Manager](https://github.com/Ryxx/Sculpt-Alphas-Manager) - менеджер альфа-изображений для скульпта. [Видео](https://www.youtube.com/watch?v=wHR8baLhnoA&ab_channel=StevenScott
+) с пояснениями.
+- [Brush manager](https://tingjoybits.gumroad.com/l/zLBPz) - менеджер кистей для скульпта. Цена начинается от 0$, но можно и заплатить, сколько пожелаете. 
+- [Blender Sculpt Layers](https://mifth.gumroad.com/l/blender_sculpt_layers) **$** У Blender пока нет нативных слоев для скульпта, но этот аддон их добавляет. 
 - [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
 - [SpeedSculpt](https://blendermarket.com/products/speedsculpt) **$** 
+- [Paint Wheel](https://jfranmatheu.gumroad.com/l/blender_sculpt_paint_wheel) **$**  Круговое меню а-ля Zbrush с кистями и цветами
+
 
 ## Ретопология
 - Bsurface
