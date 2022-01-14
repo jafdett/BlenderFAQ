@@ -1,7 +1,7 @@
 # BlenderFAQ
 
 # Содержание
-## Общие вопросы
+## Общие вопросы про Blender
 - [Что такое Blender?](#whatisblender)<br>
 - [Он бесплатный?](#isitfree)<br>
 - [Но ведь его все равно рано или поздно купит Autodesk?](#autodeskbuy)<br>
@@ -9,6 +9,9 @@
 - [Почему лучше использовать английский интерфейс программы](#whyenglish)<br>
 - [Может ли Blender в 2d?](#2d)<br>
 - [А что с автоматизацией?](#automation)<br>
+## Общие вопросы про 3d графику
+- [Что такое pipeline?](#whatispipeline)<br>
+- [Какие методы создания 3d моделей существуют?](#3dmethods)<br>
 ## Железо
 - [Какие видеокарты поддерживаются?](#gpusupported)<br>
 - [Какой мне нужен компьютер для Blender?](#whatcomputer)<br>
@@ -67,6 +70,22 @@ Windows, macOS и Linux
 
 ## А что с автоматизацией? <a name="automation"></a>
 У Blender есть богатое Python API - с помощью Python можно писать программы, которые работают прямо внутри Blender и имеют доступ практически ко всем его функциям. Документация по API доступна здесь: https://docs.blender.org/api/current/. Именно с помощью Python API написано большинство addon-ов для Blender. 
+
+## Общие вопросы про 3d графику
+
+## Что такое pipeline? <a name="whatispipeline"></a>
+**Pipeline** (или конвейр) - это название всего набора действий для получения готового результата. Этот набор охватывает все, от самого начала производства продукта и до самого конца. Pipeline также накладывает определенные требования на программы, используемые в производстве продукта и даже на методы работы внутри этих программ. 
+Пример типичного pipline для создания игрового персонажа:
+![3d pipeline](http://www.plantuml.com/plantuml/svg/FP0zJiKm48JxdC9qyFGEyIu15OqbBF4AHoZu0FaHQK02AYGgu0I6414vFxd2x8qORGIT_Stip6eFjy4MmH_pAszlifDmxRmptWPN76ssCtX1nBSqc90Gint9AnRCqgB7AhKX8dl6I9emO4PtcPzAYK4gQVWbt1k-xpWmoVtUa4Lyqh581QfdpD2GToHEZF801YiZV4ClDRDNBDhHCVYHeghd5uOv4J_uegsaSLjoK_71oiJgMXfTY9KqHimOq6lhNmb1n_y_U5BFX2YjzXqSxxFTw1S0)
+
+## Какие методы создания 3d моделей существуют? <a name="3dmethods"></a>
+- Полигональное моделирование или low poly
+- Subdiv 
+- Boolean 
+- Скульпт (чаще применяют для органики)
+- процедурное моделирование: то есть построение моделей программными методами: например с помощью geomenty nodes в Blender или в Houdini.
+- Построение моделей в CAD программах, с последующим импортом и ретопологией в полигональных программах, таких как Blender
+- NURBS
 
 # Железо 
 ## Какие видеокарты поддерживаются?<a name="gpusupported"></a>
