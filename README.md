@@ -76,7 +76,7 @@ Windows, macOS и Linux
 ## Что такое pipeline? <a name="whatispipeline"></a>
 **Pipeline** (или конвейр) - это название всего набора действий для получения готового результата. Этот набор охватывает все, от самого начала производства продукта и до самого конца. Pipeline также накладывает определенные требования на программы, используемые в производстве продукта и даже на методы работы внутри этих программ. 
 Пример типичного pipline для создания игрового персонажа:
-![3d pipeline](http://www.plantuml.com/plantuml/svg/FP0zJiKm48JxdC9qyFGEyIu15OqbBF4AHoZu0FaHQK02AYGgu0I6414vFxd2x8qORGIT_Stip6eFjy4MmH_pAszlifDmxRmptWPN76ssCtX1nBSqc90Gint9AnRCqgB7AhKX8dl6I9emO4PtcPzAYK4gQVWbt1k-xpWmoVtUa4Lyqh581QfdpD2GToHEZF801YiZV4ClDRDNBDhHCVYHeghd5uOv4J_uegsaSLjoK_71oiJgMXfTY9KqHimOq6lhNmb1n_y_U5BFX2YjzXqSxxFTw1S0)
+![3d pipeline](http://www.plantuml.com/plantuml/svg/FP1DIiOm68JtFKNSwSTtYEyIkd8JQC0kKgJc0Ft1RXJKbU1AFK6q5aD_sYlCUoE745m4oZCFymuztJbTELkKkTMtsPcxCTOegvsf2fqT55xXyICT5apmsO7a3HjMwJ5Yb_QwF9SQGHegAvLmLFo-PxZ8mr6HUNpHsAG1qmkbsC6I5yoi8Q4n497X0nDRPda4YoCZVCSeBTMTR-ORUEo9OKmlhnIxFNxnJQsc64Uc59-SCN5EArqSoHaKFKy6Z778_v6GLYJm79q5NlfuxsJAFFsZFm00)
 
 ## Какие методы создания 3d моделей существуют? <a name="3dmethods"></a>
 - Полигональное моделирование или low poly
