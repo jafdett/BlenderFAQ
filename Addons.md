@@ -53,7 +53,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 [Bpainter](https://blendermarket.com/products/bpainter) - мощный аддон для текстурирования а-ля Substance Painter прямо в Blender **$**
 
 ## Риг
-- Rigify 
+- Rigify - создает автоматические риги и контролы для двухногих и четырехногих существ. Перед использованием посмотрите уроки по нему, или прочтите документацию, нужно осознать принципы его работы.
 - [WiggleBones](https://blenderartists.org/t/wiggle-bones-a-jiggle-bone-implementation-for-2-8/1154726) 
 - [X-Muscle System](https://blendermarket.com/products/x-muscle-system) **$**
 - [AutoRig PRO](https://blendermarket.com/products/auto-rig-pro) **$**
@@ -61,7 +61,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 ## Анимация
 
 ## Работа с HardSurface
-- Carver
+- Carver - Бесплатный аналог BoxCutter. Позволяет визуально вырезать объемы из моделей. Итогом работы будет исходная модель и множество вырезающих мешей, в комплекте с настроенными boolean модификаторами. Таким образом, моделирование происходит в неразрушающем режиме. 
 - [MeshMachine](https://blendermarket.com/products/meshmachine) **$**
 - [DecalMachine](https://blendermarket.com/products/decalmachine) **$** 
 - [HardOPS](https://blendermarket.com/products/hardopsofficial) **$**
@@ -79,9 +79,9 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 
 ## Ретопология
-- Bsurface
-- F2
-- [MiraTools](https://blenderartists.org/t/miratools/637385) 
+- Bsurface - построение топологии поверх других объектов с помощью annotate tool - то есть вы просто рисуете на поверхности линии и они превращаются в геометрию! 
+- F2 - кнопка F на стероидах. Позволяет строить поверхности волшебным образом по двум ребрам или по трем точкам. Очень удобен для ретопологии.
+- [MiraTools](https://blenderartists.org/t/miratools/637385) - многофункциональный аддон, применяется не только для ретопологии.
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
 
 
@@ -104,25 +104,25 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Unreal Blender Tools](https://epicgames.github.io/BlenderTools/) - средства для работы с Unreal Engine 4
 
 ## Природные явления и живая природа
-- Sapling tree generator
-- Real Snow
-- IvyGen
-- A.N.T. Landscapes
-- Sun Position
-- Dynamic Sky
+- Sapling tree generator - генератор деревьев
+- Real Snow - делает снег, почти как настоящий
+- IvyGen - генгератор листвы 
+- A.N.T. Landscapes - создание процедурных гор
+- Sun Position - располагает и анимирует источник света в соответствии с реальным положением cолнца.  Использует географическую позицию, время и дату
+- Dynamic Sky - создает процедурное небо и солнце. Можно создать сцену на открытом воздухе или в помещении с разными настройками освещения. 
 
 ## Архитектура
 - Archimesh
 - Archipack
 
 ## Ускорение работы и дополнительные инструменты
-- Node Wrangler
+- Node Wrangler - ускорение работы с нодами в shader editor и композере, может добавлять типичные связки нод одним кликом, объединять ноды, удалять ненужные и многое другое. 
 - MeasureIT - аддон, который позволяет производить измерения. 
 - Stored Views - сохраняйте и восстанавливайте пользовательские виды, точку зрения и расположение камер.
 - BoltFactory - настоящая фабрика болтов и гаек.
 - Extra Objects - аддон, позволяющий создавать дополнительные примитивные и не только примитивные объекты.
-- tinyCAD
-- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$**
+- tinyCAD - добавляет некоторые CAD функции в Blender.
+- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$** - создание своих собственных круговых меню.
 
 ## Работа с камерой
 - Add camera rig
