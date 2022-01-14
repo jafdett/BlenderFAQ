@@ -135,5 +135,11 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Uv Packmaster 3](https://blendermarket.com/products/uvpackmaster) **$** - Один из самых эффективных упаковщиков UV ([UV Packmaster features](https://uvpackmaster.com/for-blender/features/)),([UV Packmaster FAQ](https://uvpackmaster.com/for-blender/uvpackmaster-3-faq/))
 - [Zen UV](https://blendermarket.com/products/zen-uv) **$** - это не просто набор инструментов, это готовый конвейер для быстрого создания UV в Blender ([демо](https://youtu.be/Yj2SecY-c1Y))([документация](https://zen-masters.github.io/Zen-UV/)).
 
+## "Мосты" - аддоны для обмена данными с другим софтом
+- [Headus UVlayout Bridge](https://github.com/schroef/uvlayout_bridge) - аддон для экспорта объектов из Blender в Headus UVlayout и обратного импорта развёрнутого объекта. Имеет множество опций и возможностей автоматизации.
+> Этот аддон требует, чтобы в системе был установлен Headus UVlayout.
+- [HeadusUVLayout/RizomUV bridge (2 in 1)](https://titus.gumroad.com/l/B2RUVL) **$** - аддон для экспорта объектов из Blender в Headus UVlayout или RizomUV  и обратного импорта развёрнутого объекта. [(демо)](https://www.youtube.com/watch?v=XusjghptcWI)
+> Этот аддон требует, чтобы в системе были установлены Headus UVlayout и RizomUV.
+
 ## Аддоны All in One (многофункциональные аддоны)
 - [BagaPie](https://blenderartists.org/t/bagapie-modifier-free-addon/1310959) - это универсальный и бесплатный аддон, который создаёт пресеты из модификаторов и геометрических нод (Он в основном предназначен для архитектуры) ([демо](https://youtu.be/nDeK29aAUps)),([документация](https://www.f12studio.fr/bagapie)). Аддон бесплатный, но вы можете отблагодарить автора и купить его.
