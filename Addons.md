@@ -141,10 +141,12 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Zen UV](https://blendermarket.com/products/zen-uv) **$** - это не просто набор инструментов, это готовый конвейер для быстрого создания UV в Blender ([демо](https://youtu.be/Yj2SecY-c1Y))([документация](https://zen-masters.github.io/Zen-UV/)).
 
 ## "Мосты" - аддоны для обмена данными с другим софтом
+- [Blender to Substance 3D Painter](https://github.com/DigiKrafting/blender_addon_substance_painter) - Мост который позволяет отправить модель(сцену, коллекцию) в Substance 3D Painter, а после текстурирования импортирует и применяет полученные текстурные карты на объекты внутри Blender.
+> Для работы аддона требуется, чтобы в системе был установлен Adobe Substance 3D Painter.
 - [Headus UVlayout Bridge](https://github.com/schroef/uvlayout_bridge) - аддон для экспорта объектов из Blender в Headus UVlayout и обратного импорта развёрнутого объекта. Имеет множество опций и возможностей автоматизации.
-> Этот аддон требует, чтобы в системе был установлен Headus UVlayout.
+> Для работы аддона требуется, чтобы в системе был установлен Headus UVlayout.
 - [HeadusUVLayout/RizomUV bridge (2 in 1)](https://titus.gumroad.com/l/B2RUVL) **$** - аддон для экспорта объектов из Blender в Headus UVlayout или RizomUV  и обратного импорта развёрнутого объекта. [(демо)](https://www.youtube.com/watch?v=XusjghptcWI)
-> Этот аддон требует, чтобы в системе были установлены Headus UVlayout и RizomUV.
+> Для работы аддона требуется, чтобы в системе были установлены Headus UVlayout и RizomUV.
 
 ## Аддоны All in One (многофункциональные аддоны)
 - [BagaPie](https://blenderartists.org/t/bagapie-modifier-free-addon/1310959) - это универсальный и бесплатный аддон, который создаёт пресеты из модификаторов и геометрических нод (Он в основном предназначен для архитектуры) ([демо](https://youtu.be/nDeK29aAUps)),([документация](https://www.f12studio.fr/bagapie)). Аддон бесплатный, но вы можете отблагодарить автора и купить его.
