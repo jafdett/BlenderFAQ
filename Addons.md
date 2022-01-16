@@ -59,7 +59,6 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [AutoRig PRO](https://blendermarket.com/products/auto-rig-pro) **$**
 
 ## Анимация
-
 ## Работа с HardSurface
 - Carver - Бесплатный аналог BoxCutter. Позволяет визуально вырезать объемы из моделей. Итогом работы будет исходная модель и множество вырезающих мешей, в комплекте с настроенными boolean модификаторами. Таким образом, моделирование происходит в неразрушающем режиме. 
 - [MeshMachine](https://blendermarket.com/products/meshmachine) **$**
@@ -77,14 +76,11 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Extended Sculpt Tools](https://biman.gumroad.com/l/dUbp) **$** 
 - [SpeedSculpt](https://blendermarket.com/products/speedsculpt) **$** 
 - [Paint Wheel](https://jfranmatheu.gumroad.com/l/blender_sculpt_paint_wheel) **$**  Круговое меню а-ля Zbrush с кистями и цветами
-
-
 ## Ретопология
 - Bsurface - построение топологии поверх других объектов с помощью annotate tool - то есть вы просто рисуете на поверхности линии и они превращаются в геометрию! 
 - F2 - кнопка F на стероидах. Позволяет строить поверхности волшебным образом по двум ребрам или по трем точкам. Очень удобен для ретопологии.
 - [MiraTools](https://blenderartists.org/t/miratools/637385) - многофункциональный аддон, применяется не только для ретопологии.
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
-
 
 ## Интерфейс
 - [Screencast Keys](https://github.com/nutti/Screencast-Keys) - показывает нажатия кнопок на клавиатуре, а также действия с мышью
@@ -111,6 +107,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 - A.N.T. Landscapes - создание процедурных гор
 - Sun Position - располагает и анимирует источник света в соответствии с реальным положением cолнца.  Использует географическую позицию, время и дату
 - Dynamic Sky - создает процедурное небо и солнце. Можно создать сцену на открытом воздухе или в помещении с разными настройками освещения. 
+- [Graswald](https://blendermarket.com/products/graswald) **$** - мощный аддон для генерации травы и листьев.
+- [The Grove](https://www.thegrove3d.com/) **$** - еще один мощный аддон для гегнерации деревьев и кустов.
 
 ## Архитектура
 - Archimesh
