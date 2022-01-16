@@ -66,7 +66,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [DecalMachine](https://blendermarket.com/products/decalmachine) **$** 
 - [HardOPS](https://blendermarket.com/products/hardopsofficial) **$**
 - [BoxCutter](https://blendermarket.com/products/boxcutter) **$**
-- [Destructive extrude](https://github.com/Darcvizer/Destructive-Extrude) -- аддон, доводящий до ума встроенный инструмент Блендера Extrude Manifold. Основан на Булевых операциях. Аддон относится к экспериментальным, находится в бете, так что возможны непредсказуемые результаты.
+- [Destructive extrude](https://github.com/Darcvizer/Destructive-Extrude) -- аддон, доводящий до ума встроенный инструмент Блендера Extrude Manifold. Инструмент экструдирования, основанный на Булевых операциях. Аддон относится к экспериментальным, находится в бете, так что возможны непредсказуемые результаты.
 
 ## Работа со Sculpt
 - [MeshFairing](https://github.com/fedackb/mesh-fairing) 
