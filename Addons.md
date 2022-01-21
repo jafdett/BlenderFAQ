@@ -92,6 +92,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 
 ## Rendering 
 - [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) 
+- Поддержка движка Appleseed в аддоне [Blenderseed](https://github.com/appleseedhq/blenderseed)
 
 ## Волосы и шерсть
 - [Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool) **$**
