@@ -1,19 +1,18 @@
 
-Значок :computer: -- ссылка на ролик серии, значок :mag: -- ссылка на фрагмент ролика
 
+[Платина-1](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1)
 
-Платина-1 [:computer:](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1)
-1. Вывернутые нормали. [:mag:] 
-2. Local view: все исчезло и не возвращается через Alt+H. [:mag:]
-3. Лютый шейдинг (мятые N-гоны, топология, merge, аддон 3Dprint). [:mag:]
-4. Порядок модификаторов имеет значение. [:mag:]
-5. Положение ориджина. [:mag:]
-6. Что это за красно-белый кружок с крестом (3D-курсор)? [:mag:]
-7. Не видно деталей на рендере. [:mag:]
-8. Черное стекло. [:mag:]
-9. Темно в комнате за стеклом. [:mag:]
-10. Шум, светлячки (сразу ссылка на известный мануал). [:mag:]
-11. Отсутствие развертки. [:mag:]
+1. [Вывернутые нормали.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=20s) 
+2. [Local view: все исчезло и не возвращается через Alt+H.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=228s)
+3. [Лютый шейдинг (мятые N-гоны, топология, merge, аддон 3Dprint).](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=286s)
+4. [Порядок модификаторов имеет значение.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=727s)
+5. [Положение ориджина.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=819s)
+6. [Что это за красно-белый кружок с крестом (3D-курсор)?](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=949s)
+7. [Не видно деталей на рендере.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=1066s)
+8. [Черное стекло.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=1166s)
+9. [Темно в комнате за стеклом.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=1326s)
+10. [Шум, светлячки (сразу ссылка на известный мануал).](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=2024s)
+11. [Отсутствие развертки.](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1&t=2055s)
 
 
 Платина-2 [:computer:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2)
@@ -21,8 +20,8 @@
 12. Затормаживающийся зум колесиком мыши. [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=16s)
 13. Непримененные/унаследованные scale/rotation/translation (location). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=125s)
 14. Не гуглится (английский). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=575s)
-15.1 Почему не подключается окружение? (image->environment). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=648s)
-15.2 HDR-фон не показывается и мигает сплошным цветом. [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=798s)
+15_1 Почему не подключается окружение? (image->environment). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=648s)    
+15_2 HDR-фон не показывается и мигает сплошным цветом. [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=798s)        
 16. Текстурное пространство (что за пунктир?). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1018s)
 17. Почему у меня в рендере совсем не те настройки, как в уроке? [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1277s)
 18. Что за красный пунктирный прямоугольник, почему не рендерится весь кадр? [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1427s)
@@ -83,4 +82,5 @@
 61. Почему при вращении и перемещении объект разгоняется и замедляется? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=1149s)
 62. Почему я не вижу ключи анимации? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=1556s)
 63. Почему аддон не работает или не ставится? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=1597s)
+64. [Почему аддон не работает или не ставится?](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=1597s)
 
