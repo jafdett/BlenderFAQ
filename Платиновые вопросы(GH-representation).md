@@ -63,7 +63,7 @@
 45. Почему модель не гнется, а только тянется? (недостаток топологии). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1234s)
 46. Что-то нажал и пропал манипулятор/сетка (оверлеи). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1333s)
 47. Откуда тут швы? (удвоение вершин при отмене/сбросе экструда и подобных). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1471s)
-48. При переходе в dyntopo постоянно ругается на какие-та данные вершинные, что это? [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1791s)
+48. При переходе в dyntopo постоянно ругается на какие-то данные вершинные, что это? [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1791s)
 49. Boolean мерцает (погрешность). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1908s)
 
 
