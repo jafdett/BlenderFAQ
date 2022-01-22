@@ -45,7 +45,7 @@
 32. [Z-fighting визуальный глич.](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1492s)
 33. [Почему тянется не одна точка, а все? (пропорциональное редактирование).](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1595s)
 34. [Почему симуляция или движение пути заканчивается на 100-200 кадре?](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1694s)
-35. [Почему у всех объектов один материал или набор модификаторов? (pin)](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1886s)
+35. [Почему у всех объектов один материал или набор модификаторов? (pin).](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1886s)
 36. [Почему видео не рендерится (чётность стороны).](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=2034s)
 
 
