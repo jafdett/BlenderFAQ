@@ -32,22 +32,22 @@
 
 Платина-3 [:computer:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3)
     
-21. Что это за круговое меню? (Pie). [00:00:25]
-22. Как он быстро соединил ноды? (Node wrangler). [00:02:30]
-23. Почему не скейлится куб? (only origins). [00:05:00]
-24. Не могу приблизиться к объекту (исчезает, зум останавливается), camera clipping. [00:06:30]
-25. Почему smooth shading всё так замыливает? (autosmooth/sharp). [00:08:12]
-26. Внимательнее ко всплывающим подсказкам, статусной строке. [00:10:37]
-27. Перенёс проект в другую папку, а вместо фона/текстур сиреневое всё (пути к файлам). [00:11:43]  
-28. Почему текстура не запекается и говорит, что нет картинки, хотя я всё сделал? (нет активной текстуры). [00:15:31]
-29. Хочу двигать по оси, а двигается не туда и гизмо кривой (выбор ориентации). [00:17:36]
-30. Почему картинка/спрайт не видна на рендере? (объект и референс). [00:18:59]
-31. На части модели нет материала/текстуры (assign). [00:22:15] 
-32. Z-fighting визуальный глич. [00:24:52]
-33. Почему тянется не одна точка, а все? (пропорциональное редактирование). [00:26:35]
-34. Почему симуляция или движение пути заканчивается на 100-200 кадре? [00:28:14]
-35. Почему у всех объектов один материал или набор модификаторов? (pin) [00:31:26]
-36. Почему видео не рендерится (чётность стороны). [00:33:54]
+21. Что это за круговое меню? (Pie). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=25s)
+22. Как он быстро соединил ноды? (Node wrangler). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=150s)
+23. Почему не скейлится куб? (only origins). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=300s)
+24. Не могу приблизиться к объекту (исчезает, зум останавливается), camera clipping. [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=390s)
+25. Почему smooth shading всё так замыливает? (autosmooth/sharp). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=492s)
+26. Внимательнее ко всплывающим подсказкам, статусной строке. [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=637s)
+27. Перенёс проект в другую папку, а вместо фона/текстур сиреневое всё (пути к файлам). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=703s)
+28. Почему текстура не запекается и говорит, что нет картинки, хотя я всё сделал? (нет активной текстуры). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=931s)
+29. Хочу двигать по оси, а двигается не туда и гизмо кривой (выбор ориентации). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1056s)
+30. Почему картинка/спрайт не видна на рендере? (объект и референс). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1139s)
+31. На части модели нет материала/текстуры (assign). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1335s)
+32. Z-fighting визуальный глич. [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1492s)
+33. Почему тянется не одна точка, а все? (пропорциональное редактирование). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1595s)
+34. Почему симуляция или движение пути заканчивается на 100-200 кадре? [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1694s)
+35. Почему у всех объектов один материал или набор модификаторов? (pin) [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=1886s)
+36. Почему видео не рендерится (чётность стороны). [:mag:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3&t=2034s)
 
 
 Платина-4 [:computer:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4)
