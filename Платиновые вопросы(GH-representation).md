@@ -1,4 +1,4 @@
-[Платина-1](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1)
+Платина-1 [ссылка на ролик серии](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1)
 1. Вывернутые нормали.(00:00:20)
 2. Local view: все исчезло и не возвращается через Alt+H.(00:03:48)
 3. Лютый шейдинг (мятые N-гоны, топология, merge, аддон 3Dprint).(00:04:46)
@@ -11,7 +11,7 @@
 10. Шум, светлячки (сразу ссылка на известный мануал).(00:33:44)
 11. Отсутствие развертки.(00:34:15)
 
-https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2 
+Платина-2 [ссылка на ролик серии](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2) 
 12. Затормаживающийся зум колесиком [мыши].(00:00:18)
 13. Непримененные/унаследованные scale/rotation/translation (location).(00:02:05)
 14. Не гуглится (английский).(00:09:37)
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKe
 19. Non-color data/sRGB в нормальках.(00:26:19)
 20. Неправильные карты нормалей (инверсия каналов, пространство).(00:26:58)
 
-https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3
+Платина-3 [ссылка на ролик серии](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3)
 21. Что это за круговое меню? (Pie).(00:00:25)
 22. Как он быстро соединил ноды? (Node wrangler).(00:02:30)
 23. Почему не скейлится куб? (only origins).(00:05:00)
@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKe
 35. Почему у всех объектов один материал или набор модификаторов? (pin)(00:31:26)
 36. Почему видео не рендерится (чётность стороны).(00:33:54)
 
-https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4
+Платина-4 [ссылка на ролик серии](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4)
 37. Почему неактивен Autosmooth (custom normals). Soft[smooth]/flat какой-то странный.(00:00:18)
 38. Я максер/майщик, где мои смус-группы в Блендере?(00:01:54)
 39. Как выбрать все швы разом?(00:03:39)
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKe
 48. При переходе в dyntopo постоянно ругается на какие-та данные вершинные, что это?(00:29:51)
 49. Boolean мерцает (погрешность).(00:31:48)
 
-https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5
+Платина-5 [ссылка на ролик серии](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5)
 50. Глитчи при откате камеры. (00:00:25)
 51. Поиск пересекающихся шорткатов. (00:03:30)
 52. Frame selected в аутлайнере. (00:04:11)
