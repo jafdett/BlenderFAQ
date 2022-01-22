@@ -18,16 +18,16 @@
 
 Платина-2 [:computer:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2)
     
-12. Затормаживающийся зум колесиком мыши. [00:00:18]
-13. Непримененные/унаследованные scale/rotation/translation (location). [00:02:05]
-14. Не гуглится (английский). [00:09:37]
-15.1 Почему не подключается окружение? (image->environment). [00:10:46]
-15.2 HDR-фон не показывается и мигает сплошным цветом. [00:13:18]
-16. Текстурное пространство (что за пунктир?). [00:16:58]
-17. Почему у меня в рендере совсем не те настройки, как в уроке? [00:21:17]
-18. Что за красный пунктирный прямоугольник, почему не рендерится весь кадр? [00:23:47]
-19. Non-color data/sRGB в нормальках. [00:26:19]
-20. Неправильные карты нормалей (инверсия каналов, пространство). [00:26:58]
+12. Затормаживающийся зум колесиком мыши. [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=16s)
+13. Непримененные/унаследованные scale/rotation/translation (location). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=125s)
+14. Не гуглится (английский). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=575s)
+15.1 Почему не подключается окружение? (image->environment). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=648s)
+15.2 HDR-фон не показывается и мигает сплошным цветом. [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=798s)
+16. Текстурное пространство (что за пунктир?). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1018s)
+17. Почему у меня в рендере совсем не те настройки, как в уроке? [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1277s)
+18. Что за красный пунктирный прямоугольник, почему не рендерится весь кадр? [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1427s)
+19. Non-color data/sRGB в нормальках. [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1583s)
+20. Неправильные карты нормалей (инверсия каналов, пространство). [:mag:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1618s)
 
 
 Платина-3 [:computer:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3)
