@@ -1,6 +1,6 @@
 
 <h3>Здесь  разобраны часто встречающиеся вопросы учеников, только знакомящихся с программой Blender 3D.
-Каждый вопрос и заголовок -- активная ссылка на ролик или его фрагмент.</h3>
+Каждый заголовок раздела и вопросы в нем -- активная ссылка на ролик и его фрагменты.</h3>
 
 
 
@@ -24,9 +24,9 @@
 12. [Затормаживающийся зум колесиком мыши.](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=16s)
 13. [Непримененные/унаследованные scale/rotation/translation (location).](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=125s)
 14. [Не гуглится (английский).](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=575s)<br>
-15(1) [Почему не подключается окружение? (image->environment).](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=648s)<br>
-15(2) [HDR-фон не показывается и мигает сплошным цветом.](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=798s)<br>
-    
+15. Проблемы с окружением <br>
+15.1 [Почему не подключается окружение? (image->environment).](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=648s)<br>
+15.2. [HDR-фон не показывается и мигает сплошным цветом.](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=798s)<br>
 16. [Текстурное пространство (что за пунктир?).](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1018s)
 17. [Почему у меня в рендере совсем не те настройки, как в уроке?](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1277s)
 18. [Что за красный пунктирный прямоугольник, почему не рендерится весь кадр?](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2&t=1427s)
