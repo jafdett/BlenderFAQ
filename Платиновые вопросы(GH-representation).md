@@ -1,17 +1,20 @@
-Платина-1 [ссылка на ролик серии](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1)
-1. Вывернутые нормали. [00:00:20] 
-2. Local view: все исчезло и не возвращается через Alt+H. [00:03:48]
-3. Лютый шейдинг (мятые N-гоны, топология, merge, аддон 3Dprint). [00:04:46]
-4. Порядок модификаторов имеет значение. [00:12:07]
-5. Положение ориджина. [00:13:39]
-6. Что это за красно-белый кружок с крестом (3D-курсор)? [00:15:49]
-7. Не видно деталей на рендере. [00:17:46]
-8. Черное стекло. [00:19:26]
-9. Темно в комнате за стеклом. [00:22:06]
-10. Шум, светлячки (сразу ссылка на известный мануал). [00:33:44]
-11. Отсутствие развертки. [00:34:15]
 
-Платина-2 [ссылка на ролик серии](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2) 
+Значок :computer: -- ссылка на ролик серии, значок :mag: -- ссылка на фрагмент ролика
+
+Платина-1 [:computer:](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1)
+1. Вывернутые нормали. [:mag:] 
+2. Local view: все исчезло и не возвращается через Alt+H. [:mag:]
+3. Лютый шейдинг (мятые N-гоны, топология, merge, аддон 3Dprint). [:mag:]
+4. Порядок модификаторов имеет значение. [:mag:]
+5. Положение ориджина. [:mag:]
+6. Что это за красно-белый кружок с крестом (3D-курсор)? [:mag:]
+7. Не видно деталей на рендере. [:mag:]
+8. Черное стекло. [:mag:]
+9. Темно в комнате за стеклом. [:mag:]
+10. Шум, светлячки (сразу ссылка на известный мануал). [:mag:]
+11. Отсутствие развертки. [:mag:]
+
+Платина-2 [:computer:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2) 
 12. Затормаживающийся зум колесиком мыши. [00:00:18]
 13. Непримененные/унаследованные scale/rotation/translation (location). [00:02:05]
 14. Не гуглится (английский). [00:09:37]
@@ -23,7 +26,7 @@
 19. Non-color data/sRGB в нормальках. [00:26:19]
 20. Неправильные карты нормалей (инверсия каналов, пространство). [00:26:58]
 
-Платина-3 [ссылка на ролик серии](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3)
+Платина-3 [:computer:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3)
 21. Что это за круговое меню? (Pie). [00:00:25]
 22. Как он быстро соединил ноды? (Node wrangler). [00:02:30]
 23. Почему не скейлится куб? (only origins). [00:05:00]
@@ -41,7 +44,7 @@
 35. Почему у всех объектов один материал или набор модификаторов? (pin) [00:31:26]
 36. Почему видео не рендерится (чётность стороны). [00:33:54]
 
-Платина-4 [ссылка на ролик серии](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4)
+Платина-4 [:computer:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4)
 37. Почему неактивен Autosmooth (custom normals). Soft[smooth]/flat какой-то странный. [00:00:18]
 38. Я максер/майщик, где мои смус-группы в Блендере? [00:01:54]
 39. Как выбрать все швы разом? [00:03:39]
@@ -56,19 +59,19 @@
 48. При переходе в dyntopo постоянно ругается на какие-та данные вершинные, что это? [00:29:51]
 49. Boolean мерцает (погрешность). [00:31:48]
 
-Платина-5 [ссылка на ролик серии](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5)
-50. Глитчи при откате камеры. [00:00:25](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
-51. Поиск пересекающихся шорткатов. [00:03:30]
-52. Frame selected в аутлайнере. [00:04:11]
-53. Тормозит soften на текстуре. [00:04:43] 
-54. Костью сдвигается что-то лишнее. [00:06:24]
-55. Если некоторые вершины на развёртке улетели, как исправить? [00:07:07]
-56. Риг, автовеса "can't find solution". [00:09:25]
-57. Почему не скульптится или форма откатывается к оригинальной? [00:11:00]
-58. Кружок при движении, хотя пропорциональная правка отключена. [00:13:40]
-59. Ключевая Разница F и J [00:14:37]
-60. Почему не рисует по текстуре? [00:16:02]
-61. Почему при вращении и перемещении объект разгоняется и замедляется? [00:19:09]
-62. Почему я не вижу ключи анимации? [00:25:56]
-63. Почему аддон не работает или не ставится? [00:26:37]
+Платина-5 [:computer:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5)
+50. Глитчи при откате камеры. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+51. Поиск пересекающихся шорткатов. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+52. Frame selected в аутлайнере. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+53. Тормозит soften на текстуре. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+54. Костью сдвигается что-то лишнее. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+55. Если некоторые вершины на развёртке улетели, как исправить? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+56. Риг, автовеса "can't find solution". [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+57. Почему не скульптится или форма откатывается к оригинальной? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+58. Кружок при движении, хотя пропорциональная правка отключена. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+59. Ключевая Разница F и J [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+60. Почему не рисует по текстуре? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+61. Почему при вращении и перемещении объект разгоняется и замедляется? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+62. Почему я не вижу ключи анимации? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
+63. Почему аддон не работает или не ставится? [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
 
