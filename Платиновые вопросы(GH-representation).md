@@ -1,6 +1,7 @@
 
 Значок :computer: -- ссылка на ролик серии, значок :mag: -- ссылка на фрагмент ролика
 
+
 Платина-1 [:computer:](https://www.youtube.com/watch?v=82T4_ug0alM&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=1)
 1. Вывернутые нормали. [:mag:] 
 2. Local view: все исчезло и не возвращается через Alt+H. [:mag:]
@@ -14,6 +15,7 @@
 10. Шум, светлячки (сразу ссылка на известный мануал). [:mag:]
 11. Отсутствие развертки. [:mag:]
 
+
 Платина-2 [:computer:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2)
     
 12. Затормаживающийся зум колесиком мыши. [00:00:18]
@@ -26,6 +28,7 @@
 18. Что за красный пунктирный прямоугольник, почему не рендерится весь кадр? [00:23:47]
 19. Non-color data/sRGB в нормальках. [00:26:19]
 20. Неправильные карты нормалей (инверсия каналов, пространство). [00:26:58]
+
 
 Платина-3 [:computer:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3)
     
@@ -46,21 +49,23 @@
 35. Почему у всех объектов один материал или набор модификаторов? (pin) [00:31:26]
 36. Почему видео не рендерится (чётность стороны). [00:33:54]
 
+
 Платина-4 [:computer:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4)
     
-37. Почему неактивен Autosmooth (custom normals). Soft[smooth]/flat какой-то странный. [00:00:18]
-38. Я максер/майщик, где мои смус-группы в Блендере? [00:01:54]
-39. Как выбрать все швы разом? [00:03:39]
-40. Почему на рендере не видно (разрешение, слои, материал, модификатор, включить эмиттер, инстансер). [00:04:49]
-41. В рендере не те детали, что во вьюпорте. [00:12:49]
-42. Почему констрейн не действует на кости с IK? [00:12:53]
-43. Почему лампочка не освещает, а стекло слишком темное? (масштабы предметов). [00:14:42]
-44. Ругается, что нельзя применить трансформации к мультипользовательскому мешу. [00:18:05]
-45. Почему модель не гнется, а только тянется? (недостаток топологии). [00:20:32]
-46. Что-то нажал и пропал манипулятор/сетка (оверлеи). [00:22:13]
-47. Откуда тут швы? (удвоение вершин при отмене/сбросе экструда и подобных). [00:24:31]
-48. При переходе в dyntopo постоянно ругается на какие-та данные вершинные, что это? [00:29:51]
-49. Boolean мерцает (погрешность). [00:31:48]
+37. Почему неактивен Autosmooth (custom normals). Soft[smooth]/flat какой-то странный. [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=18s)
+38. Я максер/майщик, где мои смус-группы в Блендере? [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=114s)
+39. Как выбрать все швы разом? [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=219s)
+40. Почему на рендере не видно (разрешение, слои, материал, модификатор, включить эмиттер, инстансер). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=289s)
+41. В рендере не те детали, что во вьюпорте. [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=769s)
+42. Почему констрейн не действует на кости с IK? [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=773s)
+43. Почему лампочка не освещает, а стекло слишком темное? (масштабы предметов). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=882s)
+44. Ругается, что нельзя применить трансформации к мультипользовательскому мешу. [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1085s)
+45. Почему модель не гнется, а только тянется? (недостаток топологии). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1234s)
+46. Что-то нажал и пропал манипулятор/сетка (оверлеи). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1333s)
+47. Откуда тут швы? (удвоение вершин при отмене/сбросе экструда и подобных). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1471s)
+48. При переходе в dyntopo постоянно ругается на какие-та данные вершинные, что это? [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1791s)
+49. Boolean мерцает (погрешность). [:mag:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4&t=1908s)
+
 
 Платина-5 [:computer:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5)
     
