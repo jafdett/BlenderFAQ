@@ -14,7 +14,8 @@
 10. Шум, светлячки (сразу ссылка на известный мануал). [:mag:]
 11. Отсутствие развертки. [:mag:]
 
-Платина-2 [:computer:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2) 
+Платина-2 [:computer:](https://www.youtube.com/watch?v=KQUnFL9LEV4&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=2)
+    
 12. Затормаживающийся зум колесиком мыши. [00:00:18]
 13. Непримененные/унаследованные scale/rotation/translation (location). [00:02:05]
 14. Не гуглится (английский). [00:09:37]
@@ -27,6 +28,7 @@
 20. Неправильные карты нормалей (инверсия каналов, пространство). [00:26:58]
 
 Платина-3 [:computer:](https://www.youtube.com/watch?v=3j8Y5lyOyv8&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=3)
+    
 21. Что это за круговое меню? (Pie). [00:00:25]
 22. Как он быстро соединил ноды? (Node wrangler). [00:02:30]
 23. Почему не скейлится куб? (only origins). [00:05:00]
@@ -45,6 +47,7 @@
 36. Почему видео не рендерится (чётность стороны). [00:33:54]
 
 Платина-4 [:computer:](https://www.youtube.com/watch?v=mKSkzUltN8A&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=4)
+    
 37. Почему неактивен Autosmooth (custom normals). Soft[smooth]/flat какой-то странный. [00:00:18]
 38. Я максер/майщик, где мои смус-группы в Блендере? [00:01:54]
 39. Как выбрать все швы разом? [00:03:39]
@@ -60,6 +63,7 @@
 49. Boolean мерцает (погрешность). [00:31:48]
 
 Платина-5 [:computer:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5)
+    
 50. Глитчи при откате камеры. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=25s)
 51. Поиск пересекающихся шорткатов. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=210s)
 52. Frame selected в аутлайнере. [:mag:](https://www.youtube.com/watch?v=Pn4KCBIchQQ&list=PLIMU9w2JuTwMeuefU6i88Jx5ZE6MKeLB2&index=5&t=251s)
