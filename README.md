@@ -12,6 +12,7 @@
 - [О скриншотах](#screenshots)<br>
 - [Каким образом можно передать модели в другие программы или получить их из них?](#importexport)<br>
 - [У меня нет numpad-а, как быть?](#nonumpad)<br>
+- [Какие настройки стоит сделать сразу на свежеустановленном Blender?](#initsetup)<br>
 ## Общие вопросы про 3d графику
 - [Что такое pipeline?](#whatispipeline)<br>
 - [Какие методы создания 3d моделей существуют?](#3dmethods)<br>
@@ -93,6 +94,10 @@ Windows, macOS и Linux
 
 ## У меня нет numpad-а, как быть? <a name="nonumpad"></a>
 Включите опцию эмуляции numpad в настройках (Preferences - Input - Emulate Numpad)
+
+## Какие настройки стоит сделать сразу на свежеустановленном Blender? <a name="initsetup"></a>
+1. Если у вас нет numpad, то сделайте как написано пунктом выше.
+2. Включите сразу Orbit Around Selection (Preferences - Navigation - Orbit Around Selection), тогда вид при вращении будет всегда центрироваться относительно выбранного.
 
 
 # Общие вопросы про 3d графику
