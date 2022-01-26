@@ -82,6 +82,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - F2 - кнопка F на стероидах. Позволяет строить поверхности волшебным образом по двум ребрам или по трем точкам. Очень удобен для ретопологии.
 - [MiraTools](https://blenderartists.org/t/miratools/637385) - многофункциональный аддон, применяется не только для ретопологии.
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$**, есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
+- [Tesselator - Quadrilateral Remeshing](https://blendermarket.com/products/tesselator) **$** -- это аддон для ретопологии, который поможет вам легко создавать обычные четырехугольные и треугольные сетки из скульптов.
 
 ## Интерфейс
 - [Screencast Keys](https://github.com/nutti/Screencast-Keys) - показывает нажатия кнопок на клавиатуре, а также действия с мышью
