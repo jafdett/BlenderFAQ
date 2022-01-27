@@ -316,9 +316,9 @@ Blender довольно эффективно работает в Sculpt mode с
 - Курсы от [Scott Eaton](https://www.scott-eaton.com)
 
 ## Посоветуйте курсы по Sculpt для начинающих <a name="sculptcourses"></a>
-- https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro
-- https://youtube.com/playlist?list=PLX1M0uFI6g-bv0kMcPLyMYLx4yMVyzClN
-- https://www.youtube.com/watch?v=C7pCNy0xyt8
+- [Лепка большой каменной глыбы в деталях](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro)
+- [Скульпт пчелки &mdash; игрового персонажа (с субтитрами на русском)](https://youtube.com/playlist?list=PLX1M0uFI6g-bv0kMcPLyMYLx4yMVyzClN)
+- [Большой открытый урок по лепке анатомически верной модели человека](https://www.youtube.com/watch?v=C7pCNy0xyt8)
 
 ## Какие есть еще программы для скульптинга?<a name="elsesculpt"></a>
 В первую очередь это конечно же Zbrush - уникальная программа, предназначенная только для cкульпта. Она платная, есть в нескольких версиях, славится своим инопланетным интерфейсом и логикой, но при этом очень мощная и де-факто является стандартом индустрии. 
