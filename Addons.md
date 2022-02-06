@@ -88,6 +88,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - Bsurface &mdash; построение топологии поверх других объектов с помощью annotate tool - то есть вы просто рисуете на поверхности линии и они превращаются в геометрию! 
 - F2 &mdash; кнопка F на стероидах. Позволяет строить поверхности волшебным образом по двум ребрам или по трем точкам. Очень удобен для ретопологии.
 - [MiraTools](https://blenderartists.org/t/miratools/637385) &mdash; многофункциональный аддон, применяется не только для ретопологии.
+- [Draw X-Ray](https://bartoszstyperek.gumroad.com/l/draw_xray) **$** &mdash; (есть и бесплатная версия с меньшим фукнционалом). Устраняет одну из проблем  ретопологии в Blender - правильно отображает сетку поверх другого объекта. 
 - [SpeedRetopo][https://pitiwazou-1.gumroad.com/l/speedretopo] **$** &mdash; интегрирующий аддон для других аддонов и функций Blender для ускорения процесса ретопологии, ничего нового не вносит, просто собирает все в одно удобное боковое или pie-меню. 
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$** &mdash; есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
 - [Tesselator - Quadrilateral Remeshing](https://blendermarket.com/products/tesselator) **$** &mdash; это аддон для ретопологии, который поможет вам легко создавать обычные четырехугольные и треугольные сетки из скульптов.
