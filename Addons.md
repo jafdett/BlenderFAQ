@@ -51,6 +51,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Cut Copy Paste](https://moth3r.gumroad.com/l/paste) Этот аддон предоставляет расширенные функции копирования/вставки для 3D-объектов и элементов режима редактирования.
 - [Face Cutter](https://blendermarket.com/products/face-cutter) **$** &mdash; это удобный инструмент для моделирования, предназначенный для простой резки ngon`ов
 - [MACHIN3tools](https://machin3.gumroad.com/l/MACHIN3tools) &mdash; это бесплатная постоянно развивающаяся коллекция инструментов блендера и круговых меню в одном настраиваемом пакете.
+- [Ice Tools Pro](https://blendermarket.com/products/ice-tools-pro) **$** &mdash; Ice Tools Pro — это инструмент для моделирования на основе булевых операций и рисования, предназначенный для помощи в процессе моделирования твердых поверхностей и моделировании посредством ретопологии интуитивно понятным и ненавязчивым способом.
 
 ## Работа с нодами
 - [NodeRelax](https://github.com/Shahzod114/NodeRelax-Blender-Addon) &mdash; Расслабляющая кисть для нодов, помогает легче расположить нодв. Хоткей: Shift+R
@@ -140,14 +141,15 @@ Addon-ы делятся на два типа: встроенные и внешн
 - BoltFactory &mdash; настоящая фабрика болтов и гаек.
 - Extra Objects &mdash; аддон, позволяющий создавать дополнительные примитивные и не только примитивные объекты.
 - tinyCAD &mdash; добавляет некоторые CAD функции в Blender.
-- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$** - создание своих собственных круговых меню.
+- [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$** &mdash; создание своих собственных круговых меню.
+- [3 Points Align](https://blendermarket.com/products/3-points-align) **$** &mdash; с помощью этого аддона вы можете легко выровнять и привязать один объект к другому, рисуя линии от целевой сетки к исходной. ([демо](https://www.youtube.com/watch?v=WohYWCApftI))
 
 ## Работа с камерой
 - Add camera rig
 - [Real camera](https://3d-wolf.com/products/camera/) &mdash; позволяет управлять камерой Blender как настоящей (автоэкспозиция, автофокус)
 - [Photographer 4](https://chafouin.gumroad.com/l/HPrCY) **$** &mdash; добавляет новую физическую камеру, настройки физического освещения и интерфейсы микшера для источников света, эмиссионных материалов и миров для EEVEE, Cycles и LuxCore 2.5 ([демо](https://www.youtube.com/watch?v=q_IzKyDD2KY)). Есть бесплатная версия [Photographer 2](https://chafouin.gumroad.com/l/FWQf), но она работает на версиях до 2.9.
 - [Cinepack](https://blendermarket.com/products/cinepack-pre-animated-camera-moves) **$** &mdash; Предварительно анимированные движения камеры ([демо](https://youtu.be/tWnuaHjTGcM)).
-- [Fspy](https://fspy.io/) - уже не аддон, а отдельная программа, но плотно работает с Blender: позволяет выставить камеру в Blender, в точности как она установлена на снимке. 
+- [Fspy](https://fspy.io/) &mdash; уже не аддон, а отдельная программа, но плотно работает с Blender: позволяет выставить камеру в Blender, в точности как она установлена на снимке. 
 
 ## Работа с UV развёрткой
 - Magic UV
