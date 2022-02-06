@@ -89,10 +89,10 @@ Addon-ы делятся на два типа: встроенные и внешн
 - F2 &mdash; кнопка F на стероидах. Позволяет строить поверхности волшебным образом по двум ребрам или по трем точкам. Очень удобен для ретопологии.
 - [MiraTools](https://blenderartists.org/t/miratools/637385) &mdash; многофункциональный аддон, применяется не только для ретопологии.
 - [Draw X-Ray](https://bartoszstyperek.gumroad.com/l/draw_xray) **$** &mdash; (есть и бесплатная версия с меньшим фукнционалом). Устраняет одну из проблем  ретопологии в Blender - правильно отображает сетку поверх другого объекта. 
-- [SpeedRetopo][https://pitiwazou-1.gumroad.com/l/speedretopo] **$** &mdash; интегрирующий аддон для других аддонов и функций Blender для ускорения процесса ретопологии, ничего нового не вносит, просто собирает все в одно удобное боковое или pie-меню. 
-- [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$** &mdash; есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). 
+- [SpeedRetopo](https://pitiwazou-1.gumroad.com/l/speedretopo) **$** &mdash; интегрирующий аддон для других аддонов и функций Blender для ускорения процесса ретопологии, ничего нового не вносит, просто собирает все в одно удобное боковое или pie-меню. 
+- [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$** &mdash; есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). Один из самых продвинутых аддонов ретопологии для Blender. Обладает рядом инструментов для современной ретопологии и даже свой собственный пользовательский интерфейс. К недостаткам стоит отнести медленную работу, особенно на тяжелых и сложных моделях. 
 - [Tesselator - Quadrilateral Remeshing](https://blendermarket.com/products/tesselator) **$** &mdash; это аддон для ретопологии, который поможет вам легко создавать обычные четырехугольные и треугольные сетки из скульптов.
-- [Softwrap](https://www.blendermarket.com/products/softwrap) **$** &mdash; интресный аддон с совершенно особенным подходом: с его помощью натягивается уже готовая лоуполи болванка поверх хайполи скульта. 
+- [Softwrap](https://www.blendermarket.com/products/softwrap) **$** &mdash; интересный аддон с совершенно особенным подходом: с его помощью натягивается уже готовая лоуполи болванка поверх хайполи скульта. 
 
 ## Интерфейс
 - [Screencast Keys](https://github.com/nutti/Screencast-Keys) &mdash; показывает нажатия кнопок на клавиатуре, а также действия с мышью
