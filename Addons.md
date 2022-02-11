@@ -52,6 +52,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Face Cutter](https://blendermarket.com/products/face-cutter) **$** &mdash; это удобный инструмент для моделирования, предназначенный для простой резки ngon`ов
 - [MACHIN3tools](https://machin3.gumroad.com/l/MACHIN3tools) &mdash; это бесплатная постоянно развивающаяся коллекция инструментов блендера и круговых меню в одном настраиваемом пакете.
 - [Ice Tools Pro](https://blendermarket.com/products/ice-tools-pro) **$** &mdash; Ice Tools Pro — это инструмент для моделирования на основе булевых операций и рисования, предназначенный для помощи в процессе моделирования твердых поверхностей и моделировании посредством ретопологии интуитивно понятным и ненавязчивым способом.
+- [Blender Bezier Utils](https://github.com/Shriinivas/blenderbezierutils) &mdash; аддон значительно упрощающий работу с кривыми в Blender. При установке добавляет в панель инструментов (Т-панель) 2 кнопки, которые позволяют создавать и редактировать кривые. Подробнее об этом аддоне можно узнать из [плейлиста](https://www.youtube.com/playlist?list=PLxsh4i5F_h9G6QFoPzKvBRMayz8533fSW).
 
 ## Работа с нодами
 - [NodeRelax](https://github.com/Shahzod114/NodeRelax-Blender-Addon) &mdash; Расслабляющая кисть для нодов, помогает легче расположить нодв. Хоткей: Shift+R
