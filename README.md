@@ -187,6 +187,7 @@ Blender имеет ряд условий относительно поддерж
 - [Курс по моделированию пончика в переводе на русский](https://www.youtube.com/watch?v=ryq4Vj7G5NA&list=PLkxXQ3ugQK2PEUO9a2_FZMmXGXy83P4XN) от Дениса Кожара
 - [Мини-курс по моделированию стула](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR) в Blender 2.8+ от Blender Guru
 - [Курс по UV развёртке](https://www.skillshare.com/classes/Blender-2-8-UV-Mapping/722747378) от Darrin Lile (Blender Foundation Certified Instructor)
+- [Курс по созданию персонажа (моделирование, текстурирование, РИГ)](https://www.youtube.com/playlist?list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5) от TomCAT - Characters, Art and Tutorials
 - [Курс по текстурированию и материалам](https://www.udemy.com/course/become-a-material-guru-in-blender-cycles/) От Joakim Tornhill (**платный**)
 
 ## Где искать ответы на возникающие вопросы?<a name="questions"></a>
