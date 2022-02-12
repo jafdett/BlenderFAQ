@@ -46,6 +46,8 @@
 - [Какие рендер-движки существуют для Blender?](#renderengines)<br>
 - [Какой render-движок предпочесть?](#chooserender)<br>
 - [Blender умеет рендерить одновременно на процессоре и видеокарте?](#gpuandcpu)<br>
+## Диагностика проблем
+- [Как снять логи?](#logs)<br>
 
 # Общие вопросы
 ## Что такое Blender? <a name="whatisblender"></a>
@@ -100,7 +102,6 @@ Windows, macOS и Linux
 1. Если у вас нет numpad, то сделайте как написано пунктом выше.
 2. Включите сразу Orbit Around Selection (Preferences - Navigation - Orbit Around Selection), тогда вид при вращении будет всегда центрироваться относительно выбранного.
 
-
 # Общие вопросы про 3d графику
 
 ## Что такое pipeline? <a name="whatispipeline"></a>
@@ -150,7 +151,7 @@ Blender имеет ряд условий относительно поддерж
 |---------------|:-----------------:|:---------:|:-----:|:-----------------:|:-------------:|
 | **CUDA**      | все               | +         | +     | + (до 10.13.6)    |               |
 | **OptiX**     | 2.81+             | +         | +     |                   |               |
-| **OpenCL**    | все               | +         | +     | + (до 10.13.6)    |               |
+| **OpenCL**    | все до 2.93       | +         | +     | + (до 10.13.6)    |               |
 | **HIP**       | 3.0+              | +         |       |                   |               |
 | **Metal**     | 3.0+              |           |       |                   | + (с 12.0)    |
 
@@ -187,6 +188,7 @@ Blender имеет ряд условий относительно поддерж
 - [Мини-курс по моделированию стула](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR) в Blender 2.8+ от Blender Guru
 - [Курс по UV развёртке](https://www.skillshare.com/classes/Blender-2-8-UV-Mapping/722747378) от Darrin Lile (Blender Foundation Certified Instructor)
 - [Курс по созданию персонажа (моделирование, текстурирование, РИГ)](https://www.youtube.com/playlist?list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5) от TomCAT - Characters, Art and Tutorials
+- [Курс по текстурированию и материалам](https://www.udemy.com/course/become-a-material-guru-in-blender-cycles/) От Joakim Tornhill (**платный**)
 
 ## Где искать ответы на возникающие вопросы?<a name="questions"></a>
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
@@ -356,4 +358,49 @@ Biased-движки применяют ряд трюков для расчета
 ## Blender умеет рендерить одновременно на процессоре и видеокарте? <a name="gpuandcpu"></a>
 Да, такая возможность появилась в 2.8x версиях.
 
+# Диагностика проблем
+## Как снять логи? <a name="logs"></a>
+Если вы столкнулись с ситуацией вылета программы и не знаете, по какой причине это может происходить, первым делом попытайтесь достать все доступные логи. Для этого нужно сделать следующее:
+1. зайти в терминал:
 
+    **Windows:** доступно несколько вариантов:
+    * Пуск -> в поиске вбить cmd (Командная строка) или PowerShell
+    * <kbd>Win</kbd> + <kbd>X</kbd> -> Windows PowerShell
+
+    **Linux:** в большинстве оболочек терминал открывается комбинацией <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
+
+    **macOS:** <kbd>Cmd</kbd> + <kbd>Пробел</kbd> (откроется Spotlight) -> Terminal
+
+2. выполнить команду:
+
+    **Windows:**
+
+    ```
+    <папка блендера>/blender.exe
+
+    # например C:\blender-2.93\blender.exe
+    # или, если путь с пробелом, то: 'C:\Program Files\blender-2.93\blender.exe'
+    ```
+
+    **Linux:**
+
+    ```
+    <папка блендера>/blender
+
+    # например /home/user/blender-2.93/blender
+    # или, если путь с пробелом, то: /home/user/My\ Blender\ Path/blender
+    ```
+
+    **macOS:**
+    ```
+    <путь к Blender.app>/Blender.app/Contents/MacOS/Blender
+
+    # например: /Applications/Blender.app/Contents/MacOS/Blender
+    # или, если путь с пробелом, то: /Users/lupa/My\ Blender\ Path/Blender.app/Contents/MacOS/Blender
+    ```
+    > **ВАЖНО:** обратите внимание, что путь, в котором содержится символ пробела, должен быть экранирован: в Windows путь целиком оборачивается в одинарные кавычки (**'**), в Linux и macOS символ экранируется обратной косой чертой (**\\**).
+
+3. Blender откроется в контексте терминала. После запуска **не закрывайте его**. В момент вылета все логи останутся именно там;
+4. скопируйте полученные данные.
+
+Также, помимо ручного поиска нужной информации, сборка Blender для Windows содержит несколько скриптов, которые снимают данные о видеокарте. Они находятся рядом с исполняемым файлом и называются **blender_debug_gpu** и **blender_debug_log**.
