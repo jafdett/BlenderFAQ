@@ -154,6 +154,9 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Cinepack](https://blendermarket.com/products/cinepack-pre-animated-camera-moves) **$** &mdash; Предварительно анимированные движения камеры ([демо](https://youtu.be/tWnuaHjTGcM)).
 - [Fspy](https://fspy.io/) &mdash; уже не аддон, а отдельная программа, но плотно работает с Blender: позволяет выставить камеру в Blender, в точности как она установлена на снимке. 
 
+## Освещение
+- [LeoMoon Light Studio](https://github.com/leomoon-studios/leomoon-lightstudio) &mdash; аддон, который позволяет настроить студийное освещение ([демо](https://www.youtube.com/watch?v=LyxA2Jgn5zQ)). Аддон имеет открытый код и является абсолютно бесплатным, но если вы посчитаете нужным отблагодарить автора, то можете приобрести его по этой [ссылке](https://blendermarket.com/products/leomoon-lightstudio).
+
 ## Работа с UV развёрткой
 - Magic UV
 - [TexTools](http://renderhjs.net/textools/blender/)
