@@ -219,35 +219,35 @@ Blender имеет ряд условий относительно поддерж
 - [Blenderartists.org](https://blenderartists.org)
 - [Blender Nation](https://www.blendernation.com)
 
-## Большой список каналов и уроков <a name="#biglist"></a>
-###Зарубежные авторы:
-[blazraidr](https://www.youtube.com/c/blazraidr)
-[Blender Animation Studio](https://www.youtube.com/c/blazraidr)
-[Blender Sensei](https://www.youtube.com/c/blazraidr)
-[BlenderDiplom](https://www.youtube.com/c/blazraidr)
-[CG Geek](https://www.youtube.com/c/blazraidr)
-[CG Masters](https://www.youtube.com/c/blazraidr)
-[Grant Abbitt](https://www.youtube.com/c/blazraidr)
-[masterxeon1001](https://www.youtube.com/c/blazraidr)
-[YanSculpts](https://www.youtube.com/c/blazraidr)
-[CG Boost](https://www.youtube.com/c/blazraidr)
-[CGRogue](https://www.youtube.com/c/blazraidr)
-[Blender Guru:](https://www.youtube.com/c/blazraidr)
-[Remington graphics:](https://www.youtube.com/c/blazraidr)
-[CG Cookie](https://www.youtube.com/c/blazraidr)
-[Sardi Pax](https://www.youtube.com/c/blazraidr)
-[Wayward Art Company](https://www.youtube.com/c/blazraidr)
-[MaxEdge](https://www.youtube.com/c/blazraidr)
-[sketching in blender](https://www.youtube.com/c/blazraidr)
-[Polyfjord](https://www.youtube.com/c/blazraidr)
-[Joey Carlino](https://www.youtube.com/c/blazraidr)
-[CrossMind Studio](https://www.youtube.com/c/blazraidr)
+## Большой список каналов и уроков <a name="biglist"></a>
+### Зарубежные авторы:
+[blazraidr](https://www.youtube.com/c/blazraidr)<br>
+[Blender Animation Studio](https://www.youtube.com/c/blazraidr)<br>
+[Blender Sensei](https://www.youtube.com/c/blazraidr)<br>
+[BlenderDiplom](https://www.youtube.com/c/blazraidr)<br>
+[CG Geek](https://www.youtube.com/c/blazraidr)<br>
+[CG Masters](https://www.youtube.com/c/blazraidr)<br>
+[Grant Abbitt](https://www.youtube.com/c/blazraidr)<br>
+[masterxeon1001](https://www.youtube.com/c/blazraidr)<br>
+[YanSculpts](https://www.youtube.com/c/blazraidr)<br>
+[CG Boost](https://www.youtube.com/c/blazraidr)<br>
+[CGRogue](https://www.youtube.com/c/blazraidr)<br>
+[Blender Guru:](https://www.youtube.com/c/blazraidr)<br>
+[Remington graphics:](https://www.youtube.com/c/blazraidr)<br>
+[CG Cookie](https://www.youtube.com/c/blazraidr)<br>
+[Sardi Pax](https://www.youtube.com/c/blazraidr)<br>
+[Wayward Art Company](https://www.youtube.com/c/blazraidr)<br>
+[MaxEdge](https://www.youtube.com/c/blazraidr)<br>
+[sketching in blender](https://www.youtube.com/c/blazraidr)<br>
+[Polyfjord](https://www.youtube.com/c/blazraidr)<br>
+[Joey Carlino](https://www.youtube.com/c/blazraidr)<br>
+[CrossMind Studio](https://www.youtube.com/c/blazraidr)<br>
 
-###Русскоязычные авторы:
+### Русскоязычные авторы:
 
-[Blender 3D - уроки](https://www.youtube.com/c/blazraidr)
-[Denis Kozhar](https://www.youtube.com/c/blazraidr)
-[fastaboutblender](https://www.youtube.com/c/blazraidr)
+[Blender 3D - уроки](https://www.youtube.com/c/blazraidr)<br>
+[Denis Kozhar](https://www.youtube.com/c/blazraidr)<br>
+[fastaboutblender](https://www.youtube.com/c/blazraidr)<br>
 
 # Контент
 ## Где взять модели?<a name="getmodels"></a>
