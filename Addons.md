@@ -102,7 +102,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Screencast Keys](https://github.com/nutti/Screencast-Keys) &mdash; показывает нажатия кнопок на клавиатуре, а также действия с мышью
 
 ## Геоданные
-- [blender-osm](https://prochitecture.gumroad.com/l/blender-osm) -&mdash;загрузка данных из OpenStreetMap
+- [blender-osm](https://prochitecture.gumroad.com/l/blender-osm) &mdash; загрузка данных из OpenStreetMap
 - [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) &mdash; загрузка данных из Google Maps
 
 ## Rendering 
