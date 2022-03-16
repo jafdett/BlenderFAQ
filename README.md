@@ -13,6 +13,7 @@
 - [Каким образом можно передать модели в другие программы или получить их из них?](#importexport)<br>
 - [У меня нет numpad-а, как быть?](#nonumpad)<br>
 - [Какие настройки стоит сделать сразу на свежеустановленном Blender?](#initsetup)<br>
+- [Как поменять единицы измерения?](#units)<br>
 ## Общие вопросы про 3d графику
 - [Что такое pipeline?](#whatispipeline)<br>
 - [Какие методы создания 3d моделей существуют?](#3dmethods)<br>
@@ -102,7 +103,10 @@ Windows, macOS и Linux
 
 ## Какие настройки стоит сделать сразу на свежеустановленном Blender? <a name="initsetup"></a>
 1. Если у вас нет numpad, то сделайте как написано пунктом выше.
-2. Включите сразу Orbit Around Selection (Preferences - Navigation - Orbit Around Selection), тогда вид при вращении будет всегда центрироваться относительно выбранного.
+2. Включите сразу Orbit Around Selection (Preferences - Navigation - Orbit Around Selection), тогда вид при вращении будет всегда центрироваться относительно выбранного <a name="units"></a>
+
+## Как поменять единицы измерения? <a name="units"></a>
+Есть [видео](https://www.youtube.com/watch?v=IggufPpkMCc) про это. 
 
 # Общие вопросы про 3d графику
 
