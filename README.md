@@ -235,32 +235,32 @@ Blender имеет ряд условий относительно поддерж
 ## Большой список каналов и уроков <a name="biglist"></a>
 ### Зарубежные авторы:
 [blazraidr](https://www.youtube.com/c/blazraidr)<br>
-[Blender Animation Studio](https://www.youtube.com/c/blazraidr)<br>
-[Blender Sensei](https://www.youtube.com/c/blazraidr)<br>
-[BlenderDiplom](https://www.youtube.com/c/blazraidr)<br>
-[CG Geek](https://www.youtube.com/c/blazraidr)<br>
-[CG Masters](https://www.youtube.com/c/blazraidr)<br>
-[Grant Abbitt](https://www.youtube.com/c/blazraidr)<br>
-[masterxeon1001](https://www.youtube.com/c/blazraidr)<br>
-[YanSculpts](https://www.youtube.com/c/blazraidr)<br>
-[CG Boost](https://www.youtube.com/c/blazraidr)<br>
-[CGRogue](https://www.youtube.com/c/blazraidr)<br>
-[Blender Guru:](https://www.youtube.com/c/blazraidr)<br>
-[Remington graphics:](https://www.youtube.com/c/blazraidr)<br>
-[CG Cookie](https://www.youtube.com/c/blazraidr)<br>
-[Sardi Pax](https://www.youtube.com/c/blazraidr)<br>
-[Wayward Art Company](https://www.youtube.com/c/blazraidr)<br>
-[MaxEdge](https://www.youtube.com/c/blazraidr)<br>
-[sketching in blender](https://www.youtube.com/c/blazraidr)<br>
-[Polyfjord](https://www.youtube.com/c/blazraidr)<br>
-[Joey Carlino](https://www.youtube.com/c/blazraidr)<br>
-[CrossMind Studio](https://www.youtube.com/c/blazraidr)<br>
+[Blender Animation Studio](https://www.youtube.com/c/BlenderAnimationStudio)<br>
+[Blender Sensei](https://www.youtube.com/c/BlenderSenseiOfficial)<br>
+[BlenderDiplom](https://www.youtube.com/c/BlenderDiplom)<br>
+[CG Geek](https://www.youtube.com/c/CGGeek)<br>
+[CG Masters](https://www.youtube.com/user/blengine)<br>
+[Grant Abbitt](https://www.youtube.com/c/GrantAbbitt)<br>
+[masterxeon1001](https://www.youtube.com/c/masterxeon1001)<br>
+[YanSculpts](https://www.youtube.com/c/yansculpts)<br>
+[CG Boost](https://www.youtube.com/c/CGBoost)<br>
+[CGRogue](https://www.youtube.com/c/3DBanditTutorials)<br>
+[Blender Guru:](https://www.youtube.com/c/BlenderGuruOfficial)<br>
+[Remington graphics:](https://www.youtube.com/c/RemingtonCreative)<br>
+[CG Cookie](https://www.youtube.com/c/CGCookieBlender)<br>
+[Sardi Pax](https://www.youtube.com/c/SardiPax/)<br>
+[Wayward Art Company](https://www.youtube.com/c/WaywardArtCompany)<br>
+[MaxEdge](https://www.youtube.com/c/MaxEdge420)<br>
+[sketching in blender](https://www.youtube.com/c/sketchinginblender)<br>
+[Polyfjord](https://www.youtube.com/c/Polyfjord)<br>
+[Joey Carlino](https://www.youtube.com/c/JoeyCarlino)<br>
+[CrossMind Studio](https://www.youtube.com/c/CrossMindStudio)<br>
 
 ### Русскоязычные авторы:
 
-[Blender 3D - уроки](https://www.youtube.com/c/blazraidr)<br>
-[Denis Kozhar](https://www.youtube.com/c/blazraidr)<br>
-[fastaboutblender](https://www.youtube.com/c/blazraidr)<br>
+[Blender 3D - уроки](https://www.youtube.com/c/Blender3dUa)<br>
+[Denis Kozhar](https://www.youtube.com/channel/UCf2LGgt4l6NoroDrHx8uD_Q)<br>
+[fastaboutblender](https://www.youtube.com/user/fastaboutblender)<br>
 
 # Контент
 ## Где взять модели?<a name="getmodels"></a>
@@ -293,7 +293,7 @@ Blender имеет ряд условий относительно поддерж
 
 ## Ссылки на IES-библиотеки?<a name="iesget"></a>
 - https://ieslibrary.com/en/home
- 
+
  [Видеоурок](https://www.youtube.com/watch?v=l-uz3BHOqNo) о том, как использовать IES-файлы
 
 # Аддоны
