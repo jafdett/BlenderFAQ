@@ -53,7 +53,10 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [MACHIN3tools](https://machin3.gumroad.com/l/MACHIN3tools) &mdash; это бесплатная постоянно развивающаяся коллекция инструментов блендера и круговых меню в одном настраиваемом пакете.
 - [Ice Tools Pro](https://blendermarket.com/products/ice-tools-pro) **$** &mdash; Ice Tools Pro — это инструмент для моделирования на основе булевых операций и рисования, предназначенный для помощи в процессе моделирования твердых поверхностей и моделировании посредством ретопологии интуитивно понятным и ненавязчивым способом.
 - [Blender Bezier Utils](https://github.com/Shriinivas/blenderbezierutils) &mdash; аддон значительно упрощающий работу с кривыми в Blender. При установке добавляет в панель инструментов (Т-панель) 2 кнопки, которые позволяют создавать и редактировать кривые. Подробнее об этом аддоне можно узнать из [плейлиста](https://www.youtube.com/playlist?list=PLxsh4i5F_h9G6QFoPzKvBRMayz8533fSW).
-- [NGon Loop Select](https://amanbairwal.gumroad.com/l/NGonLoopSelect) - Позволяет выделять лупы с n-гонами.
+- [NGon Loop Select](https://amanbairwal.gumroad.com/l/NGonLoopSelect) &mdash; Позволяет выделять лупы с n-гонами.
+- [JRemesh Tools](https://blendermarket.com/products/jremesh-tools)**$** &mdash; аддон позволяет преобразовать существующую сетку мэша в топологию на основе квадратов. Лучше всего подходит для твердотельного моделирования ([демо](https://www.youtube.com/watch?v=_HqngZdY1Ww)).
+- [JCurve Tools](https://blendermarket.com/products/jcurve-tools)**$** &mdash; аддон позволяет создавать кривые на поверхности геометрии и не только. ([демо-1](https://youtu.be/6zGp4DCQ-JY)), ([демо-2](https://youtu.be/ZEhxaE3qik0)).
+- [Grease Pencil From Mesh](https://blendermarket.com/products/grease-pencil-from-mesh)**$** &mdash; для преобразования обычных объектов в объекты Grease Pencil с фильтрацией краев для острых краев, пересечений и контуров изогнутых поверхностей ([демо](https://youtu.be/dyY8uGgTcEg)).
 
 ## Работа с нодами
 - [NodeRelax](https://github.com/Shahzod114/NodeRelax-Blender-Addon) &mdash; Расслабляющая кисть для нодов, помогает легче расположить нодв. Хоткей: Shift+R
@@ -98,6 +101,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Retopoflow 3](https://blendermarket.com/products/retopoflow) **$** &mdash; есть бесплатная версия на [Github](https://github.com/CGCookie/retopoflow). Один из самых продвинутых аддонов ретопологии для Blender. Обладает рядом инструментов для современной ретопологии и даже свой собственный пользовательский интерфейс. К недостаткам стоит отнести медленную работу, особенно на тяжелых и сложных моделях. 
 - [Tesselator - Quadrilateral Remeshing](https://blendermarket.com/products/tesselator) **$** &mdash; это аддон для ретопологии, который поможет вам легко создавать обычные четырехугольные и треугольные сетки из скульптов.
 - [Softwrap](https://www.blendermarket.com/products/softwrap) **$** &mdash; интересный аддон с совершенно особенным подходом: с его помощью натягивается уже готовая лоуполи болванка поверх хайполи скульта. 
+- [Petik](https://blendermarket.com/products/petik)**$** &mdash; это простой инструмент для ретопологии. Он позволяет вам определять ваши собственные геометрические патчи именно так, как они вам нужны. Вы получаете до шести сторон одного участка и переменное количество вершин на каждой стороне. ([демо](https://lh5.googleusercontent.com/yO61N9hw1D9netLGo-Y7Q9rEZfngi4wQIgFsVXL5jyPLDfRGyy8jepPcz6Xh5ZlSxecvX3NDvWATk3SSCCXqGWOtBK-g7TzBcefJmUQrTWk3LEDKuVMyzHl3iAhx_oxi-9KSaK9Q)).
 
 ## Интерфейс
 - [Screencast Keys](https://github.com/nutti/Screencast-Keys) &mdash; показывает нажатия кнопок на клавиатуре, а также действия с мышью
@@ -109,6 +113,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 ## Rendering 
 - [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) 
 - Поддержка движка Appleseed в аддоне [Blenderseed](https://github.com/appleseedhq/blenderseed)
+- [Colorframe Renders Pro](https://blendermarket.com/products/petik)**$** &mdash; аддон, который поможет создать разноцветный WireFrame рендер. ([демо](https://youtu.be/rS6cCK9Qfz0)).
 
 ## Волосы и шерсть
 - [Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool) **$**
@@ -123,7 +128,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 - glTF &mdash; новый, прогрессивный формат хранения 3D-сцен и моделей. Основан на JSON. Есть поддержка бинарной версии (формат glb). Поддерживает информацию о сцене: камеры и источники света, скелетную анимацию, материалы и шейдеры.
 - [SCS Blender Tools](https://github.com/SCSSoftware/BlenderTools) &mdash; инструменты для редактирования ассетов в играх от SCS Software
 - [Unreal Blender Tools](https://epicgames.github.io/BlenderTools/) &mdash; средства для работы с Unreal Engine 4
-
+- [Blender 3ds Importer (Recoverd Vesion)](https://blendermarket.com/products/blender-3ds-importer-addon-recoverd-vesion)**$** &mdash; аддон позволяет импортировать 3DS модели в ваш проект.
+- 
 ## Природные явления и живая природа
 - Sapling tree generator &mdash; генератор деревьев
 - Real Snow &mdash; делает снег, почти как настоящий
@@ -178,6 +184,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 ## Аддоны All in One (многофункциональные аддоны)
 - [BagaPie](https://blenderartists.org/t/bagapie-modifier-free-addon/1310959) &mdash; это универсальный и бесплатный аддон, который создаёт пресеты из модификаторов и геометрических нод (Он в основном предназначен для архитектуры) ([демо](https://youtu.be/nDeK29aAUps)),([документация](https://www.f12studio.fr/bagapie)). Аддон бесплатный, но вы можете отблагодарить автора и купить его.
 
+## Работа с графами (Graph Editor)
+- [Graphkit](https://blendermarket.com/products/graphkit) **$** &mdash; дополнение Graphkit от Blastframe - незаменимый инструмент для анимации в Blender! Благодаря 6 мощным функциям, которые экономят вам массу шагов, он гарантированно станет неотъемлемой частью вашего рабочего процесса анимации [(демо)](https://youtu.be/59vDUmzThII)
 
 ## Работа с файлами
 - [Power Save](https://bonjorno7.gumroad.com/l/powersave) &mdash; это инструмент, предназначенный для упрощения сохранения (автосохранения) и повышения доступности сохранённых файлов. [(демо)](https://youtu.be/8C-N4BZjesA)
