@@ -57,6 +57,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [JRemesh Tools](https://blendermarket.com/products/jremesh-tools)**$** &mdash; аддон позволяет преобразовать существующую сетку мэша в топологию на основе квадратов. Лучше всего подходит для твердотельного моделирования ([демо](https://www.youtube.com/watch?v=_HqngZdY1Ww)).
 - [JCurve Tools](https://blendermarket.com/products/jcurve-tools)**$** &mdash; аддон позволяет создавать кривые на поверхности геометрии и не только. ([демо-1](https://youtu.be/6zGp4DCQ-JY)), ([демо-2](https://youtu.be/ZEhxaE3qik0)).
 - [Grease Pencil From Mesh](https://blendermarket.com/products/grease-pencil-from-mesh)**$** &mdash; для преобразования обычных объектов в объекты Grease Pencil с фильтрацией краев для острых краев, пересечений и контуров изогнутых поверхностей ([демо](https://youtu.be/dyY8uGgTcEg)).
+- [Cross Section Maker](https://blendermarket.com/products/cross-sections)**$** &mdash; это дополнение разработано для создания поперечного сечения из сетки ([демо](https://youtu.be/5VmeH15c378)).
+- [Hole Maker](https://blendermarket.com/products/hole-maker)**$** &mdash; это дополнение представляет собой инструмент для создания отверстий в сетке с точным диаметром, глубиной и положением. Выбранная вершина - это центр отверстия ([демо](https://youtu.be/IxIsh0UowB0)).
 
 ## Работа с нодами
 - [NodeRelax](https://github.com/Shahzod114/NodeRelax-Blender-Addon) &mdash; Расслабляющая кисть для нодов, помогает легче расположить нодв. Хоткей: Shift+R
@@ -129,7 +131,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [SCS Blender Tools](https://github.com/SCSSoftware/BlenderTools) &mdash; инструменты для редактирования ассетов в играх от SCS Software
 - [Unreal Blender Tools](https://epicgames.github.io/BlenderTools/) &mdash; средства для работы с Unreal Engine 4
 - [Blender 3ds Importer (Recoverd Vesion)](https://blendermarket.com/products/blender-3ds-importer-addon-recoverd-vesion)**$** &mdash; аддон позволяет импортировать 3DS модели в ваш проект.
-- 
+
 ## Природные явления и живая природа
 - Sapling tree generator &mdash; генератор деревьев
 - Real Snow &mdash; делает снег, почти как настоящий
@@ -152,7 +154,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 - Extra Objects &mdash; аддон, позволяющий создавать дополнительные примитивные и не только примитивные объекты.
 - tinyCAD &mdash; добавляет некоторые CAD функции в Blender.
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$** &mdash; создание своих собственных круговых меню.
-- [3 Points Align](https://blendermarket.com/products/3-points-align) **$** &mdash; с помощью этого аддона вы можете легко выровнять и привязать один объект к другому, рисуя линии от целевой сетки к исходной. ([демо](https://www.youtube.com/watch?v=WohYWCApftI))
+- [3 Points Align](https://blendermarket.com/products/3-points-align) **$** &mdash; с помощью этого аддона вы можете легко выровнять и привязать один объект к другому, рисуя линии от целевой сетки к исходной ([демо](https://www.youtube.com/watch?v=WohYWCApftI)).
+- [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus/releases)**$** &mdash; мощный аддон для выравнивания объектов (имеет множество натсроек и параметров, по которым производится выравниевание) ([демо](https://blenderartists.org/uploads/default/original/4X/2/2/6/2263f2d1146dbe9ae922e092340996e9fa13db35.gif)),([демо](https://blenderartists.org/uploads/default/original/4X/6/9/3/693354de8c55126ce11a8c45a087f7b2de48f525.gif)).
 
 ## Работа с камерой
 - Add camera rig
