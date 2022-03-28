@@ -155,7 +155,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - tinyCAD &mdash; добавляет некоторые CAD функции в Blender.
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$** &mdash; создание своих собственных круговых меню.
 - [3 Points Align](https://blendermarket.com/products/3-points-align) **$** &mdash; с помощью этого аддона вы можете легко выровнять и привязать один объект к другому, рисуя линии от целевой сетки к исходной ([демо](https://www.youtube.com/watch?v=WohYWCApftI)).
-- [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus/releases)**$** &mdash; мощный аддон для выравнивания объектов (имеет множество натсроек и параметров, по которым производится выравниевание) ([демо](https://blenderartists.org/uploads/default/original/4X/2/2/6/2263f2d1146dbe9ae922e092340996e9fa13db35.gif)),([демо](https://blenderartists.org/uploads/default/original/4X/6/9/3/693354de8c55126ce11a8c45a087f7b2de48f525.gif)).
+- [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus/releases) &mdash; мощный аддон для выравнивания объектов (имеет множество натсроек и параметров, по которым производится выравниевание) ([демо](https://blenderartists.org/uploads/default/original/4X/2/2/6/2263f2d1146dbe9ae922e092340996e9fa13db35.gif)),([демо](https://blenderartists.org/uploads/default/original/4X/6/9/3/693354de8c55126ce11a8c45a087f7b2de48f525.gif)).
 
 ## Работа с камерой
 - Add camera rig
