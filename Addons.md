@@ -59,6 +59,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Grease Pencil From Mesh](https://blendermarket.com/products/grease-pencil-from-mesh)**$** &mdash; для преобразования обычных объектов в объекты Grease Pencil с фильтрацией краев для острых краев, пересечений и контуров изогнутых поверхностей ([демо](https://youtu.be/dyY8uGgTcEg)).
 - [Cross Section Maker](https://blendermarket.com/products/cross-sections)**$** &mdash; это дополнение разработано для создания поперечного сечения из сетки ([демо](https://youtu.be/5VmeH15c378)).
 - [Hole Maker](https://blendermarket.com/products/hole-maker)**$** &mdash; это дополнение представляет собой инструмент для создания отверстий в сетке с точным диаметром, глубиной и положением. Выбранная вершина - это центр отверстия ([демо](https://youtu.be/IxIsh0UowB0)).
+- [Grid breaker](https://github.com/sorecords/gridbreaker) &mdash; для создания сетчатых сеток с управляемыми рандомизированными параметрами ([демо](https://youtu.be/hsaV0nBaSCk)).
+- [Imagepaste](https://blendermarket.com/products/imagepaste)**$** &mdash; позволяет вставлять изображения из буфера обмена в различные места в Blender и легко копировать изображения обратно из Blender в буфер обмена ([демо](https://youtu.be/I58e2FRHJXA)).
 
 ## Работа с нодами
 - [NodeRelax](https://github.com/Shahzod114/NodeRelax-Blender-Addon) &mdash; Расслабляющая кисть для нодов, помогает легче расположить нодв. Хоткей: Shift+R
@@ -104,9 +106,11 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Tesselator - Quadrilateral Remeshing](https://blendermarket.com/products/tesselator) **$** &mdash; это аддон для ретопологии, который поможет вам легко создавать обычные четырехугольные и треугольные сетки из скульптов.
 - [Softwrap](https://www.blendermarket.com/products/softwrap) **$** &mdash; интересный аддон с совершенно особенным подходом: с его помощью натягивается уже готовая лоуполи болванка поверх хайполи скульта. 
 - [Petik](https://blendermarket.com/products/petik)**$** &mdash; это простой инструмент для ретопологии. Он позволяет вам определять ваши собственные геометрические патчи именно так, как они вам нужны. Вы получаете до шести сторон одного участка и переменное количество вершин на каждой стороне. ([демо](https://lh5.googleusercontent.com/yO61N9hw1D9netLGo-Y7Q9rEZfngi4wQIgFsVXL5jyPLDfRGyy8jepPcz6Xh5ZlSxecvX3NDvWATk3SSCCXqGWOtBK-g7TzBcefJmUQrTWk3LEDKuVMyzHl3iAhx_oxi-9KSaK9Q)).
+- [Quad Remesher](https://exoside.com/quadremesher/)**$** &mdash; это дополнение  ([демо](https://youtu.be/6BvP3rXeRRI)).
 
 ## Интерфейс
 - [Screencast Keys](https://github.com/nutti/Screencast-Keys) &mdash; показывает нажатия кнопок на клавиатуре, а также действия с мышью
+- [Simple Tabs](https://blendermarket.com/products/simple-tabs)**$** &mdash; помогает организовать вашу N-панель ([демо](https://youtu.be/6h3SyW0YgRs)).
 
 ## Геоданные
 - [blender-osm](https://prochitecture.gumroad.com/l/blender-osm) &mdash; загрузка данных из OpenStreetMap
@@ -156,6 +160,8 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Pie menu editor](https://blendermarket.com/products/pie-menu-editor) **$** &mdash; создание своих собственных круговых меню.
 - [3 Points Align](https://blendermarket.com/products/3-points-align) **$** &mdash; с помощью этого аддона вы можете легко выровнять и привязать один объект к другому, рисуя линии от целевой сетки к исходной ([демо](https://www.youtube.com/watch?v=WohYWCApftI)).
 - [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus/releases) &mdash; мощный аддон для выравнивания объектов (имеет множество натсроек и параметров, по которым производится выравниевание) ([демо](https://blenderartists.org/uploads/default/original/4X/2/2/6/2263f2d1146dbe9ae922e092340996e9fa13db35.gif)),([демо](https://blenderartists.org/uploads/default/original/4X/6/9/3/693354de8c55126ce11a8c45a087f7b2de48f525.gif)).
+- [3 Points Align](https://blendermarket.com/products/3-points-align)**$** &mdash; это дополнение позволит легко выровнять и привязать один объект к другому, проведя линии от целевой сетки к исходной  ([демо](https://youtu.be/WohYWCApftI)).
+- [Atomic Data Manager](https://remington.pro/software/blender/atomic/) &mdash; это многофункциональное дополнение предоставляет художникам все необходимые инструменты для удаления нежелательных и неиспользуемых данных из их файлов Blender ([демо](https://youtu.be/Wo68No4h-DA)).
 
 ## Работа с камерой
 - Add camera rig
