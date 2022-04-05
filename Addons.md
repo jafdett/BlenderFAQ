@@ -61,6 +61,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Hole Maker](https://blendermarket.com/products/hole-maker)**$** &mdash; это дополнение представляет собой инструмент для создания отверстий в сетке с точным диаметром, глубиной и положением. Выбранная вершина - это центр отверстия ([демо](https://youtu.be/IxIsh0UowB0)).
 - [Grid breaker](https://github.com/sorecords/gridbreaker) &mdash; для создания сетчатых сеток с управляемыми рандомизированными параметрами ([демо](https://youtu.be/hsaV0nBaSCk)).
 - [Imagepaste](https://blendermarket.com/products/imagepaste)**$** &mdash; позволяет вставлять изображения из буфера обмена в различные места в Blender и легко копировать изображения обратно из Blender в буфер обмена ([демо](https://youtu.be/I58e2FRHJXA)).
+- [Cablerator](https://kritskiy.gumroad.com/l/cblrtr)**$** &mdash; Создает кабели между точками без возни с кривыми. Можно рисовать по поверхности и создать результирующий кабель, можно просто указать две точки в пространстве и между ними будет проложен кабель. 
 
 ## Работа с нодами
 - [NodeRelax](https://github.com/Shahzod114/NodeRelax-Blender-Addon) &mdash; Расслабляющая кисть для нодов, помогает легче расположить нодв. Хоткей: Shift+R
