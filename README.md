@@ -39,6 +39,9 @@
 - [Как перенести настройки и аддоны в новую версию Blender?](#settingsmove)<br>
 ## Моделирование
 - [Я хочу научится моделировать машины, какие курсы посоветуете?](#carcreation)<br>
+## Риг
+- [Что такое Риг?](#whatisrig)<br>
+- [Полезные ресурсы по ригу](#rigresources)<br>
 ## Скульпт
 - [Что такое Sculpt?](#whatiscsuplt)<br>
 - [Какие ресурсы помогут обучиться скульпту?](#sculptresources)<br>
@@ -333,6 +336,15 @@ C:\Users\<имя пользователя>\AppData\Roaming\Blender Foundation\Bl
 # Моделирование
 ## Я хочу научится моделировать машины, какие курсы посоветуете? <a name="carcreation"></a>
 [Master Car Creation in Blender](https://www.blendermarket.com/products/master-car-creation-in-blender)
+
+# Риг 
+## Что такое Риг?<a name="whatisrig"></a>
+Риг (rig) это процесс создания виртуального скелета из специальных "костей". После того, как модель готова, то в нее вставляют эти кости. Затем кости привязываются к сетке объекта. Между костями и регионами сетки объекта выстравивается связь на основе весов. Таким образом определеяется насколько движения данной кости будут влиять на деформации сетки. Кости могут быть связаны или не связаны между собой. 
+## Полезные ресурсы по ригу <a name="rigresources"></a>
+[Полтора риггера](https://www.youtube.com/watch?v=3LUEHGNftzU&list=PL-bOYlU2MrHKY2B4lovH82ABv33KHTfvy&index=11)<br>
+[Ригифай](https://www.youtube.com/watch?v=-JSFcSxsaTs&list=PLdcL5aF8ZcJv68SSdwxip33M7snakl6Dx&index=1)<br>
+[Развесовка Character weight paint workflow](https://www.youtube.com/watch?v=LPYs3pZEzPY&list=PLdcL5aF8ZcJsFEdlMJ7To0Iu9s-XCFV3W&index=1)<br>
+
 
 # Скульпт
 ## Что такое Sculpt? <a name="whatiscsuplt"></a>
