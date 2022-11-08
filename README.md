@@ -459,7 +459,7 @@ Biased-движки применяют ряд трюков для расчета
     <папка блендера>/blender.exe
 
     # например C:\blender-2.93\blender.exe
-    # или, если путь с пробелом, то: 'C:\Program Files\blender-2.93\blender.exe'
+    # или, если путь с пробелом, то: "C:\Program Files\blender-2.93\blender.exe"
     ```
 
     **Linux:**
