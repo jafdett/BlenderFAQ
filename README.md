@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://github.com/Mejgan4ik/Blender_CG_FAQ_images/blob/main/logo-2.png" />
+  <a href="#">
+    <img src="https://github.com/Mejgan4ik/Blender_CG_FAQ_images/blob/main/logo-2.png" />
+  </a>
 </p>
 <div align="center">
-    <a href="https://t.me/blender_cg_ru"><img alt="Telegram"
-            src="https://github.com/Mejgan4ik/Blender_CG_FAQ_images/blob/main/Bage_TG.png" /></a>
- <div align="left">
+  <a href="https://t.me/blender_cg_ru">
+    <img alt="Telegram" src="https://github.com/Mejgan4ik/Blender_CG_FAQ_images/blob/main/Bage_TG.png" />
+  </a>
+<div align="left">
  
 # Содержание
 ## Общие вопросы про Blender
