@@ -121,7 +121,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) &mdash; загрузка данных из Google Maps
 
 ## Rendering 
-- [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) 
+- [LuxCore Render](https://github.com/LuxCoreRender/BlendLuxCore/releases) - мощный unbiased рендер-движок, особо ценим за точную передачу стекла. Есть честная каустика. Материалы настраиваются через node-editor, но своими нодами. Имеет некоторую совместимость по материалам с Cycles.
 - Поддержка движка Appleseed в аддоне [Blenderseed](https://github.com/appleseedhq/blenderseed)
 - [Colorframe Renders Pro](https://blendermarket.com/products/petik)**$** &mdash; аддон, который поможет создать разноцветный WireFrame рендер. ([демо](https://youtu.be/rS6cCK9Qfz0)).
 
@@ -148,7 +148,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - Sun Position &mdash; располагает и анимирует источник света в соответствии с реальным положением cолнца.  Использует географическую позицию, время и дату
 - Dynamic Sky &mdash;создает процедурное небо и солнце. Можно создать сцену на открытом воздухе или в помещении с разными настройками освещения. 
 - [Graswald](https://blendermarket.com/products/graswald) **$** &mdash; мощный аддон для генерации травы и листьев.
-- [The Grove](https://www.thegrove3d.com/) **$** &mdash; еще один мощный аддон для гегнерации деревьев и кустов.
+- [The Grove](https://www.thegrove3d.com/) **$** &mdash; еще один мощный аддон для генерации деревьев и кустов.
 
 ## Архитектура
 - Archimesh
