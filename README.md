@@ -265,7 +265,7 @@ Blender имеет ряд условий относительно поддерж
 
 ## Большой список каналов и уроков <a name="biglist"></a>
 ### Зарубежные авторы:
-[blazraidr](https://www.youtube.com/c/blazraidr)<br>
+[Blazraidr](https://www.youtube.com/c/blazraidr)<br>
 [Blender Animation Studio](https://www.youtube.com/c/BlenderAnimationStudio)<br>
 [Blender Sensei](https://www.youtube.com/c/BlenderSenseiOfficial)<br>
 [BlenderDiplom](https://www.youtube.com/c/BlenderDiplom)<br>
@@ -282,13 +282,46 @@ Blender имеет ряд условий относительно поддерж
 [Sardi Pax](https://www.youtube.com/c/SardiPax/)<br>
 [Wayward Art Company](https://www.youtube.com/c/WaywardArtCompany)<br>
 [MaxEdge](https://www.youtube.com/c/MaxEdge420)<br>
-[sketching in blender](https://www.youtube.com/c/sketchinginblender)<br>
+[Sketching in blender](https://www.youtube.com/c/sketchinginblender)<br>
 [Polyfjord](https://www.youtube.com/c/Polyfjord)<br>
 [Joey Carlino](https://www.youtube.com/c/JoeyCarlino)<br>
 [CrossMind Studio](https://www.youtube.com/c/CrossMindStudio)<br>
+[IanHubert](https://www.youtube.com/user/mrdodobird/videos)<br>
+[Midge Sinnaeve](https://www.youtube.com/channel/UCChYCkbgArLsCl5DWlxuKhQ/videos)<br>
+[CGMatter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg/videos)<br>
+[Default Cube](https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos)<br>
+[SouthernShotty](https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg/videos)<br>
+[Gleb Alexandrov](https://www.youtube.com/user/GlebAlexandrov/videos)<br>
+[Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)<br>
+[Royal Skies LLC](https://www.youtube.com/channel/UC2U5mRfclG1Rrr1ztNkpGKA/videos)<br>
+[Chris Prenninger](https://www.youtube.com/user/chrisprenn/videos)<br>
+[Jayanam](https://www.youtube.com/user/jayanamgames/videos)<br>
+[FlippedNormals](https://www.youtube.com/user/FlippedNormalsTuts/videos)<br>
+[Curtis Holt](https://www.youtube.com/channel/UCzghqpGuEmk4YdVewxA79GA/videos)<br>
+[Polygon Runway](https://www.youtube.com/channel/UCGSJevmBuDyxjLLOBNaYMGA/videos)<br>
+[Steven Scott](https://www.youtube.com/channel/UCiy-QcXrvu9hhe4arymNcfw/videos)<br>
+[Blender NPR](https://www.youtube.com/user/blendernpr/videos)<br>
+[Martin Klekner](https://www.youtube.com/user/CamperCz/videos)<br>
+[Danny Mac 3D](https://www.youtube.com/user/djmccabie/videos)<br>
+[Daniel Krafft - DSO](https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw/videos)<br>
+[Imphenzia](https://www.youtube.com/user/ImphenziaMusic/videos)<br>
+[Saqib Hussain](https://www.youtube.com/user/sh2708mf/videos)<br>
+[CBaileyFilm](https://www.youtube.com/channel/UCXguhzOm29mBTYDuxKjxn5A/videos)<br>
+[Josh Gambrell](https://www.youtube.com/c/JoshGambrell/videos)<br>
+[Peter France](https://www.youtube.com/c/PeterFrance/videos)<br>
+[Cédric Lepiller](https://www.youtube.com/c/pitiwazou/videos)<br>
+[FlyCat](https://www.youtube.com/channel/UCnXU0MjnApXHZkf3uGYbLSA/videos)<br>
+[Stylized Station](https://www.youtube.com/c/StylizedStation/videos)<br>
+[Iridesium](https://www.youtube.com/c/Iridesium/videos)<br>
+[Lightning Boy Studio](https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos)<br>
+[Giulia Marchetti](https://www.youtube.com/c/GiuliaMarchetti3d/videos)<br>
+[CG Fast Track](https://www.youtube.com/c/CGFastTrack/videos)<br>
+[3DGreenhorn](https://www.youtube.com/c/3DGreenhorn/videos)<br>
+[Bad Normals](https://www.youtube.com/c/BadNormals/videos)<br>
+[Kevandram](https://www.youtube.com/user/kevandram/videos)<br>
+[Noggi](https://www.youtube.com/c/Noggi_Video/videos)<br>
 
 ### Русскоязычные авторы:
-
 [Blender 3D - уроки](https://www.youtube.com/c/Blender3dUa)<br>
 [Denis Kozhar](https://www.youtube.com/channel/UCf2LGgt4l6NoroDrHx8uD_Q)<br>
 [fastaboutblender](https://www.youtube.com/user/fastaboutblender)<br>
