@@ -235,6 +235,15 @@ Blender имеет ряд условий относительно поддерж
 - [Курс по UV развёртке](https://www.skillshare.com/classes/Blender-2-8-UV-Mapping/722747378) от Darrin Lile (Blender Foundation Certified Instructor)
 - [Курс по созданию персонажа (моделирование, текстурирование, РИГ)](https://www.youtube.com/playlist?list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5) от TomCAT - Characters, Art and Tutorials
 - [Курс по текстурированию и материалам](https://www.udemy.com/course/become-a-material-guru-in-blender-cycles/) От Joakim Tornhill (**платный**)
+- Blender Избушка [Бесплатный курс по созданию комплексных сцен в программе Блендер](https://www.youtube.com/watch?v=wsyiPcvTbR4&list=PLOVSu7-KesPiP5ABIc8owgMgNH9q16x1k&pp=iAQB) от Андрея Соколова
+- Курс «Фабрика». [Обучение Blender с нуля.](https://www.youtube.com/watch?v=Q8Q8HBj-Ua8&list=PLn6DikVGbeEiJFNb2_wfV2zg4BDm8xvsQ&pp=iAQB) от Knower School
+- Мини-курс ["Blender для новичков"](https://www.youtube.com/watch?v=5KY7PXalXKU&list=PLrsq-o51mMFGdzc7VTGw7Kq7G-qTguKkm) от VideoSmile
+- [Blender 4.0 Курс "Пончик 🍩"](https://www.youtube.com/watch?v=3Ru613FJDXU&list=PLkxXQ3ugQK2N2PPxmeOivCT4tP4ne_V1y) - на русском для начинающих. Обновлённый курс от Дениса Кожара
+- Бесплатный курс для начинающих [«Dungeon»](https://www.youtube.com/watch?v=eyCW2_1RYNQ&list=PL4Fzlpumqxe2Iq5agLgd5WLULW0ydj1wS) от университета Kaino
+- Мини-курс ["Blender 3d illustration 1.0"](https://www.youtube.com/watch?v=j7h5WO5V1rw&list=PLbZPZS35Led3g2cP2wxVEljiaj_aougM2) от Vladimir Lavrinenko
+- Курс [«Енот»](https://www.youtube.com/watch?v=fDOotm6bxUY&list=PLn6DikVGbeEgMvn_JJyX1Rnrt3Wlj0rvk). Скульптинг персонажа в Blender от Knower School
+- [Тропическая сцена в Blender](https://youtu.be/CsNgljHnbhA) от Артёма Слаква
+- Мини-курс ["Blender для новичков"](https://www.youtube.com/watch?v=LefGzhpue2o&list=PLkK_aXLst8Xyn-jxMs4rApy7gjCEPBKFX) от Артёма Слаква
 
 ## Где искать ответы на возникающие вопросы?<a name="questions"></a>
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
