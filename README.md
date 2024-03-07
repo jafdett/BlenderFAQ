@@ -27,7 +27,9 @@
 - [Что такое pipeline?](#whatispipeline)<br>
 - [Какие методы создания 3d моделей существуют?](#3dmethods)<br>
 - [Что такое hardsurface?](#whatishardsurface)<br>
-- [Что такое highpoly, midpoly и lowpoly](#whatispoly)<br>
+- [Что такое highpoly, midpoly и lowpoly?](#whatispoly)<br>
+- [Texel Density (TD) - Что это и с чем его едят?](https://habr.com/ru/articles/315146/) - статья на эту тему.
+
 ## Железо
 - [Какие видеокарты поддерживаются?](#gpusupported)<br>
 - [Какой мне нужен компьютер для Blender?](#whatcomputer)<br>
@@ -244,6 +246,7 @@ Blender имеет ряд условий относительно поддерж
 - Курс [«Енот»](https://www.youtube.com/watch?v=fDOotm6bxUY&list=PLn6DikVGbeEgMvn_JJyX1Rnrt3Wlj0rvk). Скульптинг персонажа в Blender от Knower School
 - [Тропическая сцена в Blender](https://youtu.be/CsNgljHnbhA) от Артёма Слаква
 - Мини-курс ["Blender для новичков"](https://www.youtube.com/watch?v=LefGzhpue2o&list=PLkK_aXLst8Xyn-jxMs4rApy7gjCEPBKFX) от Артёма Слаква
+- Курс по созданию автомобиля (**платный**) от CG Maters ([Gumroad](https://cgmasters.gumroad.com/l/3d-cars), [Blender Market](https://blendermarket.com/products/3d-cars-inside-and-out-in-blender))
 
 ## Где искать ответы на возникающие вопросы?<a name="questions"></a>
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
