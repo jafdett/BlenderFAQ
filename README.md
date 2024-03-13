@@ -48,6 +48,7 @@
 ## Контент
 - [Где взять модели?](#getmodels)<br>
 - [Где взять текстуры, материалы или HDRI для фонов?](#textures)<br>
+- [Где можно взять звуковые эффекты и музыку для своих проектов?](#sounds)<br>
 - [Ссылки на IES-библиотеки?](#iesget)<br>
 ## Аддоны
 - [Где мне взять аддоны?](#addons)<br>
@@ -364,9 +365,40 @@ Blender имеет ряд условий относительно поддерж
 - https://3dtextures.me
 - https://texturebox.com
 - https://texture.ninja
-- https://freepbr.com/
+- https://freepbr.com
 - http://hdrlabs.com/sibl/archive.html
+- https://3dassets.one
+- https://www.3dxo.com
+- https://texturefun.com
+- https://c4dcenter.com
+- https://wildtextures.com
+- https://www.textures.com/ [$]
+- https://matlib.gpuopen.com
+- https://www.scanslibrary.com [$]
+- https://www.poliigon.com [$]
+- https://texturing.xyz [$]
+- https://www.sketchuptextureclub.com/textures
+- https://www.archinspirations.com/materials
+- https://www.texturecan.com
+- https://www.solarsystemscope.com/textures/
+- https://hdrmaps.com/hdris
+- https://www.hdri-hub.com/hdrishop/freesamples/freehdri
+- https://hdri-skies.com/
+- https://www.ihdri.com
 
+## Где можно взять звуковые эффекты и музыку для своих проектов?<a name="sounds"></a>
+- https://freesound.org/
+- https://zvukogram.com
+- https://zvukipro.com
+- https://motionarray.com/browse/sound-effects/free/
+- https://uppbeat.io/
+- https://gamesounds.xyz
+- https://soundbible.com
+- https://99sounds.org
+- https://www.freesfx.co.uk
+- https://mixkit.co/free-sound-effects/
+- https://mixkit.co/free-stock-music/
+- https://www.unminus.com/
 
 ## Ссылки на IES-библиотеки?<a name="iesget"></a>
 - https://ieslibrary.com/en/home
