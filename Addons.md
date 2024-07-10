@@ -139,6 +139,7 @@ Addon-ы делятся на два типа: встроенные и внешн
 - [SCS Blender Tools](https://github.com/SCSSoftware/BlenderTools) &mdash; инструменты для редактирования ассетов в играх от SCS Software
 - [Unreal Blender Tools](https://epicgames.github.io/BlenderTools/) &mdash; средства для работы с Unreal Engine 4
 - [Blender 3ds Importer (Recoverd Vesion)](https://blendermarket.com/products/blender-3ds-importer-addon-recoverd-vesion)**$** &mdash; аддон позволяет импортировать 3DS модели в ваш проект.
+- [Better FBX](https://blendermarket.com/products/better-fbx-importer--exporter)**$** &mdash; Справляется даже с теми FBX файлами, с которыми Blender сам по себе справится не может. 
 
 ## Природные явления и живая природа
 - Sapling tree generator &mdash; генератор деревьев
