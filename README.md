@@ -271,6 +271,7 @@ Blender имеет ряд условий относительно поддерж
 - Курс по созданию автомобиля (**платный**) от CG Maters ([Gumroad](https://cgmasters.gumroad.com/l/3d-cars), [Blender Market](https://blendermarket.com/products/3d-cars-inside-and-out-in-blender))
 - Отличный [плейлист](https://www.youtube.com/playlist?list=PLIY3FrDmckDdPx6j8oVSkKyPsRAleXWSI) с уроками по одному из самых популярных методов моделирования "под сабдив" (Subdivision Surface) от CG Lama
 - Свежий [курс для начинающих](https://www.youtube.com/playlist?list=PL9XnkFunepA_e3ExUKOqwJZURaatY5rL4) от Александра Родионова, по ходу изучения которого вы получите готовую сцену с роботом.
+- [Полуторачасовое видео про текстурирование от BlenderGuru](https://www.youtube.com/watch?v=uHCJoNEWjXo)
 
 ## Где искать ответы на возникающие вопросы?<a name="questions"></a>
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
