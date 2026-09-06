@@ -267,7 +267,7 @@ Blender имеет ряд условий относительно поддерж
 ## С чего мне начать?<a name="wheretostart"></a>
 Лучше всего начать изучение программы с «основ», которые коротко, но исчерпывающе изложены в официальном курсе от создателей программы.
 
-[Основы Blender 2.8 на английском языке](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+[Основы Blender 2.8 на английском языке](https://studio.blender.org/training/blender-2-8-fundamentals/)
 
 [Тот же курс, но переведенный на русский](https://www.youtube.com/playlist?list=PLW-edvk8DPoAiurQIgT06jfR720tP3GFC)
 
@@ -297,6 +297,8 @@ Blender имеет ряд условий относительно поддерж
 - Свежий [курс для начинающих](https://www.youtube.com/playlist?list=PL9XnkFunepA_e3ExUKOqwJZURaatY5rL4) от Александра Родионова, по ходу изучения которого вы получите готовую сцену с роботом.
 - Полноценный курс по моделированию стилизованного [персонажа](https://www.youtube.com/playlist?list=PL9XnkFunepA_e3ExUKOqwJZURaatY5rL4) от Daniel Kreuter.
 - [Полуторачасовое видео про текстурирование от BlenderGuru](https://www.youtube.com/watch?v=uHCJoNEWjXo)
+- Полуторачасовой [ролик](https://www.youtube.com/watch?v=3VHlAGUcmwM), в котором вы узнаете всё о работе с кривыми в программе Blender
+
 
 ## Где искать ответы на возникающие вопросы?<a name="questions"></a>
 1. Ответы на большинство вопросов можно найти в официальной документации к программе: https://docs.blender.org/manual/en/latest/
